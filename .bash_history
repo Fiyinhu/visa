@@ -109,3 +109,17 @@ got log
 git log
 ll /home
 clear
+ls
+tree
+git status
+git add .cache/
+git .
+git add .
+git status
+git commit -m "Git SDV"
+git log
+clear
+git status
+git push "SDV"
+git show
+clear
