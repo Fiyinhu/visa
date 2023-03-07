@@ -101,3 +101,9 @@ git status
 git commit -m "Noted"
 clear
 git log
+ll
+cd fire
+clear
+git status
+got log
+git log
