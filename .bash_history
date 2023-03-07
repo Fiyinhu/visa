@@ -123,3 +123,4 @@ git status
 git push "SDV"
 git show
 clear
+git status
