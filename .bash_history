@@ -107,3 +107,5 @@ clear
 git status
 got log
 git log
+ll /home
+clear
