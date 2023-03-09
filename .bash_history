@@ -124,3 +124,121 @@ git push "SDV"
 git show
 clear
 git status
+ls
+git status
+git add .
+git status
+git commit -m "goodtg"
+git remote add demo https://github.com/Good-Gift-Software-Solution/demo-repository.git
+git remote add fly https://github.com/Good-Gift-Software-Solution/demo-repository.git
+git push fly master
+]clear
+clear
+git status
+git log
+git status
+clear
+ll
+ls
+git status
+git log
+git branch
+git show5f1cd488fe9d2
+clear
+git log
+git show  5f1cd488
+git show 2c4755670d
+git show  273ee7d11
+git show cfcf07dc54
+git show  5f1cd488f
+clear
+git branch
+git branch fiyin
+git checkout fiyin
+git branch
+git status
+git log
+git show clear
+clear
+git branch
+ll
+cat fire 
+#
+clear
+ls
+cd fire 
+cat fire
+cat deploy
+vi deploy
+mv deploy deploy.sh
+sh deploy.sh
+clear
+git status
+git add .
+git log
+clear
+git status
+git pull .
+git status
+git pull *
+git diff .
+git diff  deploy.sh
+clear
+git status
+"git restore --staged <file>..." to unstage
+"git restore --staged <deploy.sh>..." to unstage
+clear
+git log
+git branch
+git status
+clear
+git status
+git commit -a -m "update d.sh"
+git status
+git log
+clear
+git log 
+clear
+git checkout master
+git status
+git log
+git diff fiyin
+git diff master
+cat deploy.sh
+clear
+ls
+cat deploy
+ll
+cd deploy
+pwd
+ll /home
+git status
+git remote add Vfo https://github.com/GGSS01/visafro.git
+git status
+git config --global user.name Abayomi Aliu
+git config --global user.email yomialiu9040@gmail.com
+git config --global --list
+git clone Vfo master
+clear
+git log
+clean
+clear
+git branch 
+git diff fiyin
+diff --git a/.bash_history b/.bash_history
+git diff 
+git merge -m "reviewed, GJ"
+git merge fiyin -m "reviewed, GJ"
+git diff
+clear
+git status
+git add .
+git status
+git commit -a -m "approved, GJ"
+git diff
+git diff fiyin
+clear
+git branch 
+git checkout fiyin
+git log
+ clear
