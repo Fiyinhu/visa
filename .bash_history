@@ -242,3 +242,17 @@ git branch
 git checkout fiyin
 git log
  clear
+ git remote -v
+git status
+git push visa master
+git status
+clear
+git status
+git log
+git show cfcf07dc54
+clear
+git status
+git remote -v
+git push fly master
+git status
+exit
