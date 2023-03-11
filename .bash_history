@@ -124,6 +124,7 @@ git push "SDV"
 git show
 clear
 git status
+HEAD
 ls
 git status
 git add .
@@ -256,3 +257,230 @@ git remote -v
 git push fly master
 git status
 exit
+git status
+clear
+git status
+git commit -m -a "version 2"
+git status
+git commit -m -a "version2"
+git add .
+git status
+clear
+git status
+git commit -m -a "version2"
+clear
+git config --global user.name Fiyin Aliu
+git config --global user.email fiyinaliudmj@gmail.com
+git config --global --list
+git commit -m -a "version 2"
+git commit -m "Soft"
+git log
+git status
+clear
+git status
+git commit -a "SDV2"
+git commit -m -a "SDV2"
+git add .
+git status
+git config --global user.name Fiyin Aliu 
+git config --global user.email fiyinaliudmj@gmail.com
+git config --global --list
+git commit -m -a "SDV2"
+git commit -m "SDV2"
+git log
+git show 596d1cbc7
+clear
+git log
+git diff
+clear
+git diff
+git status
+git add .
+git commit -m "Git SDV3"
+git log
+git status
+clear
+git status
+git log
+clear
+git log
+git show 106a0018
+git show 596d1cbc
+git show  ea8f715e
+git show  c36f52d76
+git show cfcf07dc5
+git show 106a0018
+clear
+pwd
+ll /home
+ll /
+git status
+git log
+git show 106a00180
+git show 596d1cbc7
+git show ea8f715e9
+git show c36f52d7
+git show d9d6372fb
+git show cfcf07dc5
+git show 106a0018
+git status
+git add .
+git log
+git config --global user.name Fiyin Aliu
+git config --global user.email fiyinaliudmj@gmail.com
+git commit -m "Git SDV Ud"
+git status
+git add .
+git config --global user.name Fiyin Aliu
+git config --global user.email fiyinaliudmj@gmail.com
+git commit -m "Git SDV ud2"
+git log
+git status
+git add .
+git config --global user.name Fiyin Aliu 
+git config --global user.email fiyinaliudmj@gmail.com
+clear
+git status
+git log
+clear
+git log
+git show 2c4755670d
+git show c36f52d760d
+ll
+clear
+ll .a
+ls .a
+ls . a
+ls -a
+touch .classpath .project && mkdir nude_modules
+ll
+ll .a
+ls .a
+ls -a
+ll -a
+clear
+git log
+clear
+git branch 
+git branch fiyin
+git checkout fiyin
+ls
+git log
+clear
+git remote add Aa .github/auto-assign.yml
+git push Aa master
+clear
+git branch 
+git checkout master
+git branch
+git status
+clear
+ git status
+clear
+ls -a
+ll -a
+git status
+git remote add Aa https://github.com/Fiyinhu/master-card-repo.git
+git remote add new https://github.com/Fiyinhu/master-card-repo.git
+git pus 
+git push new master
+clear
+git push new master
+git push new master 
+git status
+git push new master
+ll
+git status
+git log
+clear
+git remote add visa https://github.com/Fiyinhu/visa.git
+git push visa master
+git remote -v
+ll
+git 
+git remote add demo https://github.com/Good-Gift-Software-Solution/demo-repository.git
+clear
+git push demo master
+git remote -v
+git log
+ls 
+git status
+git log 
+git -n log
+clear
+git log
+git remote add sign .github/auto-assign.yml
+git push sign master
+clear
+git remote -v
+git remote add package package.json
+git push package master
+git status
+git add .
+git status
+git restore <.classpath>
+git restore --staged <.classpath>
+git restore --staged <classpath>
+clear
+git log
+git status
+clear
+git status
+git merge .classpath
+git clean .classpath
+git -i .classpath
+git -i classpath
+git restore
+git restore classpath
+git restore .classpath
+git restore .project
+clear
+git status
+git restore .classpath
+mkdir .gitigonore
+mv gitigonore gitignore
+mv .gitigonore .gitignore
+mv .classpath .gitignore
+git status
+git rm .classpath
+git rm .project
+git status
+git rm -f .project
+clear
+git status
+git add . 
+git status
+git --global user.name Fiyin Aliu
+git config --global user.name Fiyin
+clear
+git status
+git config --global --list
+master
+git branch
+git switch master
+git checkout master
+clear
+git diff master
+git rebase master
+git status
+clear
+git diff fiyin
+git diff master
+git commit -a -m "All"
+git status
+git merge master
+git status
+git commit -a -m "History update"
+git status
+git log
+clear
+git -n
+clear
+git remote -v
+git status
+exit
+git branch 
+git diff master
+sudo vi .bash_history
+git diff master
+sudo vi .bash_history
