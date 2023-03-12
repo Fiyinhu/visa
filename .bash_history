@@ -484,3 +484,155 @@ git diff master
 sudo vi .bash_history
 git diff master
 sudo vi .bash_history
+git remote -v
+git status
+git add . && git commit -a -m "history and config M"
+git status
+git log 
+git status 
+git remote -v
+git fetch vfo master
+git fetch Vfo master
+git push Vfo master
+git push demo master
+git push new master
+git push origin master
+git fetch origin master
+clear
+git remote -v
+git push new master
+git push visa master
+git push sign master
+git push fly master
+git push visa master
+git clean
+git clean -f
+git status
+git remote -v
+git clean Aa
+git clean Aa master
+git clean Aa -f master
+git clean package -f master
+git clean sign && fly master
+ git clean -f sign && fly master
+git clean -f sign
+git clean -f fly
+git remote -v
+git status
+git diff
+git status
+exit 
+git remote -v
+git fetch Vfo master
+clear
+git remote -v
+exit
+git remote -v
+ls /home
+sudo su - Jola
+clear
+sudo su - Oba 
+pwd
+ping
+telnet
+cd
+ping
+sudo ping
+ls /
+cd /media
+ls
+ll
+mkdir 1/2/3/
+mkdir cl1
+cd
+mkdir 1/2/3/4/5
+mkdir 1 2 3 4 5
+tree
+touch 1 2 3 4 5
+tree
+vi 1
+rm 1
+rmdir 1
+rmdir 2 3 4
+rmdir 5
+ll
+clear
+ll
+clear
+ls /home
+cd
+tail /etc/shadow 
+sudo tail /etc/shadow 
+sudo tail /etc/passwd 
+sudo /etc/cron.allow  
+cd  /etc/cron.allow  
+vi  /etc/cron.allow  
+sudo tail /etc/cron.allow  
+cd 
+cd /opt
+ls
+ll
+cd 
+cd proc
+cd /proc
+ls
+clear
+vi app.js
+touch .config  
+cd -
+cd
+clear
+echo I will be rich in 2022 > app.js
+echo "In Jesus Name" >> app.js
+vi app.js
+clear
+cat deploy.sh
+find -f app.js
+-f app.js
+find app.js
+ln -s deploy.sh deploy-sl.sh 
+ln deploy.sh deploy-bk.sh  
+ cp deploy.sh deploy-bk.sh  
+locate deploy.sh
+ systemctl status sshd
+clear
+ systemctl status httpd  
+systemctl status ntpd 
+ service sshd status 
+clear
+systemctl list-unit-files
+clear
+yum install httpd  
+sudo yum install httpd  
+systemctl status httpd
+systemctl enable httpd
+sudo systemctl enable httpd
+/httpd
+clear
+systemctl status httpd
+clear
+kill -9 
+ kill -9 processID 
+vi monitor.sh
+file
+clear
+ls
+ls /
+touch app.log 
+ zip app.zip app.log   
+sudo zip app.zip app.log   
+sudo yum install zip 
+zip app.zip app.log
+unzip app.zip
+visudo
+sudo visudo
+ping
+ping 52.15.241.127
+ls
+ll
+tree
+mail
+sudo yum install mail 
+clear
+tree
+script

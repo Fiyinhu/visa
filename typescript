@@ -1,0 +1,1013 @@
+Script started on 2023-03-11 15:36:06+00:00 [TERM="xterm" TTY="/dev/pts/1" COLUMNS="84" LINES="58"]
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ pwd
+[?2004l/home/Fiyin
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ping
+[?2004lping: usage error: Destination address required
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ping
+[?2004lping: usage error: Destination address required
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ telnet
+[?2004lbash: telnet: command not found
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ping
+[?2004lping: usage error: Destination address required
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ sudo ping
+[?2004lping: usage error: Destination address required
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ mkdir [K[K[K[K[K[Kls /
+[?2004l[0m[01;34mafs[0m  [01;34mboot[0m  [01;34mefi[0m  [01;34mhome[0m  [01;36mlib64[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m
+[01;36mbin[0m  [01;34mdev[0m   [01;34metc[0m  [01;36mlib[0m   [01;34mmedia[0m  [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd /media
+[?2004l]0;Fiyin@Fresh:/media[?2004h[Fiyin@Fresh media]$ ls
+[?2004l]0;Fiyin@Fresh:/media[?2004h[Fiyin@Fresh media]$ ll
+[?2004ltotal 0
+]0;Fiyin@Fresh:/media[?2004h[Fiyin@Fresh media]$ mkdir 1/2/3/3/[K[K
+[?2004lmkdir: cannot create directory ‘1/2/3/’: No such file or directory
+]0;Fiyin@Fresh:/media[?2004h[Fiyin@Fresh media]$ mkdir cl1
+[?2004lmkdir: cannot create directory ‘cl1’: Permission denied
+]0;Fiyin@Fresh:/media[?2004h[Fiyin@Fresh media]$ cd
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ mkdir 1/2/3/4/5
+[?2004lmkdir: cannot create directory ‘1/2/3/4/5’: No such file or directory
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ mak[K[K[Kmkdir 1 2 3 4 5
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ tree
+[?2004l[01;34m.[0m
+├── [01;34m1[0m
+├── [01;34m2[0m
+├── [01;34m3[0m
+├── [01;34m4[0m
+├── [01;34m5[0m
+├── [01;34mclass[0m
+├── [01;34mclass7a[0m
+│   └── [01;34mclass7b[0m
+│       └── [01;34mclass7c[0m
+├── [01;34mclass8a[0m
+│   └── [01;34mclass8b[0m
+│       └── [01;34mclass8c[0m
+├── [01;34mclass9a[0m
+├── deploy.sh
+├── fire
+├── [01;34mnude_modules[0m
+└── typescript
+
+14 directories, 3 files
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ touch 1 2 3 4 5
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ tree
+[?2004l[01;34m.[0m
+├── [01;34m1[0m
+├── [01;34m2[0m
+├── [01;34m3[0m
+├── [01;34m4[0m
+├── [01;34m5[0m
+├── [01;34mclass[0m
+├── [01;34mclass7a[0m
+│   └── [01;34mclass7b[0m
+│       └── [01;34mclass7c[0m
+├── [01;34mclass8a[0m
+│   └── [01;34mclass8b[0m
+│       └── [01;34mclass8c[0m
+├── [01;34mclass9a[0m
+├── deploy.sh
+├── fire
+├── [01;34mnude_modules[0m
+└── typescript
+
+14 directories, 3 files
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ vi 1
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;58r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[58;1H"1" is a directory[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]11;?[2;1H[1m[34m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [24;1H~                                                                                   [25;1H~                                                                                   [26;1H~                                                                                   [27;1H~                                                                                   [28;1H~                                                                                   [29;1H~                                                                                   [30;1H~                                                                                   [31;1H~                                                                                   [32;1H~                                                                                   [33;1H~                                                                                   [34;1H~                                                                                   [35;1H~                                                                                   [36;1H~                                                                                   [37;1H~                                                                                   [38;1H~                                                                                   [39;1H~                                                                                   [40;1H~                                                                                   [41;1H~                                                                                   [42;1H~                                                                                   [43;1H~                                                                                   [44;1H~                                                                                   [45;1H~                                                                                   [46;1H~                                                                                   [47;1H~                                                                                   [48;1H~                                                                                   [49;1H~                                                                                   [50;1H~                                                                                   [51;1H~                                                                                   [52;1H~                                                                                   [53;1H~                                                                                   [54;1H~                                                                                   [55;1H~                                                                                   [56;1H~                                                                                   [57;1H~                                                                                   [1;1H[?25h[?25l[m[58;1H[1m[37m[41mE348: No string under cursor[1;1H[?25h[?25l[m[58;1H[1m--[m[1m[37m[41m4[m[1m INSERT --[m[1m[37m[41mi[m[58;13H[K[1;1H[?25h[?25li[?25h[?25li[?25h[?25l[1;2H[K[1;2H[?25h[?25l[1;1H[K[1;1H[?25h[?25l#[?25h[?25l![?25h[?25l/[?25h[?25lb[?25h[?25li[?25h[?25ln[?25h[?25l [?25h[?25l[?25h[?25l/[?25h[?25ls[?25h[?25lh[?25h[?25l[1;9H[K[1;9H[?25h[?25lb[?25h[?25li[?25h[?25ln[?25h[?25l[1;11H[K[1;11H[?25h[?25l[1;10H[K[1;10H[?25h[?25l[1;9H[K[1;9H[?25h[?25l[1;8H[K[1;8H[?25h[?25ls[?25h[?25lh[?25h[?25l [?25h[?25l[2;1H[K[2;1H[?25h[?25l3[?25h[?25l3[?25h[?25l[2;2H[K[2;2H[?25h[?25l[2;1H[K[2;1H[?25h[?25l\[?25h[?25l[2;1H[K[2;1H[?25h[?25l#[?25h[?25l [?25h[?25lT[?25h[?25lh[?25h[?25li[?25h[?25ls[?25h[?25l [?25h[?25li[?25h[?25ls[?25h[?25l [?25h[?25lg[?25h[?25lo[?25h[?25lo[?25h[?25ld[?25h[?25l [?25h[?25l[3;1H[K[3;1H[?25h[?25lE[?25h[?25lc[?25h[?25l[3;2H[K[3;2H[?25h[?25l[3;1H[K[3;1H[?25h[?25l[1m[34m~                                                                                   [2;16H[?25h[?25l[?25h[?25l[m[2;14H[K[2;14H[?25h[?25ld[?25h[?25l [?25h[?25l[3;1H[K[3;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l:[?25h[?25l:[?25h[?25l[34m^?[?25h[?25l^?[?25h[?25l[m[3;10H[K[3;10H[?25h[?25l[3;8H[K[3;8H[?25h[?25l[3;7H[K[3;7H[?25h[?25l[3;6H[K[3;6H[?25h[?25l"[?25h[?25l"[?25h[?25lG"[?25h[?25lo"[?25h[?25ld"[?25h[?25l "[?25h[?25lw"[?25h[?25li"[?25h[?25ll"[?25h[?25ll"[?25h[?25l "[?25h[?25lf"[?25h[?25li"[?25h[?25lg"[?25h[?25lh"[?25h[?25lt"[?25h[?25l "[?25h[?25lf"[?25h[?25lo"[?25h[?25le"[?25h[?25l"[3;25H[K[3;24H[?25h[?25lr"[?25h[?25l "[?25h[?25lm"[?25h[?25le"[?25h[?25l[3;28H[K[4;1H"[4;2H[K[4;1H[?25h[?25le"[?25h[?25lc"[?25h[?25lh"[?25h[?25lo"[?25h[?25l "[?25h[?25l""[?25h[?25l""[?25h[?25li""[?25h[?25l ""[?25h[?25l"[4;10H[K[4;8H[?25h[?25l"[4;9H[K[4;7H[?25h[?25lI""[?25h[?25l ""[?25h[?25lw""[?25h[?25li""[?25h[?25ll""[?25h[?25ll""[?25h[?25l ""[?25h[?25lb""[?25h[?25le""[?25h[?25l ""[?25h[?25lv""[?25h[?25li""[?25h[?25lc""[?25h[?25lt""[?25h[?25lo""[?25h[?25l"[4;23H[K[4;21H[?25h[?25l"[4;22H[K[4;20H[?25h[?25l"[4;21H[K[4;19H[?25h[?25l"[4;20H[K[4;18H[?25h[?25l"[4;19H[K[4;17H[?25h[?25lw""[?25h[?25li""[?25h[?25ln""[?25h[?25l ""[?25h"[?25l[4;22H[K[4;21H[?25h[?25l"[4;21H[K[4;20H[?25h"[3;21H for me[?25l"[?25h[4;21H[?25l[5;1H[K[5;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l"[?25h[?25l"[?25h[?25lG"[?25h[?25ll"[?25h[?25lo"[?25h[?25lr"[?25h[?25ly"[?25h[?25l "[?25h[?25lt"[?25h[?25lo"[?25h[?25l "[?25h[?25lJ"[?25h[?25le"[?25h[?25ls"[?25h[?25lu"[?25h[?25ls"[?25h"[?25lw[?25h[?25lh[?25h[?25lo[?25h[?25l[5;24H[K[5;24H[?25h[?25l[5;23H[K[5;23H[?25h[?25l[5;22H[K[5;22H[?25h[?25l[6;1H[K[6;1H[?25h[?25lw[?25h[?25lh[?25h[?25lo[?25h[?25la[?25h[?25lm[?25h[?25li[?25h[?25l[7;1H[K[7;1H[?25h[?25ld[?25h[?25la[?25h[?25lt[?25h[?25le[?25h[58;1H[K[7;4H[?25l[?25h[?25l[58;1H:[?25hwq![?25l[?2004l[>4;m"1" 
+[1m[37m[41mE502: "1" is a directory[?2004h[>4;2m[m
+[32mPress ENTER or type command to continue[?25h[m[1;1H[2L[?25l[1;1H#!/bin/sh
+# This is good[58;1H[K[7;4H[?25h[?25l[58;1H[1m-- INSERT --[7;4H[?25h[6;4H[5;4H[4;4H[3;4H[2;4H[1;4H[mbin/sh [?25l[?25h[?25l[1;9H[K[1;9H[?25h[?25l[1;8H[K[1;8H[?25h[?25lb[?25h[?25la[?25h[?25ls[?25h[?25lh[?25h[2;12H[3;12H[5;12H[6;7H
+date[58;1H[K[7;4H[?25l[?25h[?25l[58;1H:[?25hwq![?25l[?2004l[>4;m"1" 
+[1m[37m[41mE502: "1" is a directory[?2004h[>4;2m[m
+[32mPress ENTER or type command to continue[?25h[?25l[m[58;1H[K[58;1H:[?25hq![?25l[?2004l[>4;m[58;1H[K[58;1H[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ rm 1
+[?2004lrm: cannot remove '1': Is a directory
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ rmdir 1
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ rmdir 234 34[C 4[C
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ rmdir 5
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ll
+[?2004ltotal 16
+drwxr-xr-x. 2 Fiyin Fiyin     6 Mar  5 15:40 [0m[01;34mclass[0m
+drwxr-xr-x. 3 Fiyin Fiyin    21 Mar  5 15:47 [01;34mclass7a[0m
+drwxr-xr-x. 3 Fiyin Fiyin    21 Mar  5 15:49 [01;34mclass8a[0m
+drwxr-xr-x. 2 Fiyin Fiyin     6 Mar  5 15:55 [01;34mclass9a[0m
+-rw-r--r--. 1 Fiyin Fiyin   145 Mar  7 17:01 deploy.sh
+-rw-r--r--. 1 Fiyin Fiyin     0 Mar  5 21:13 fire
+drwxr-xr-x. 2 Fiyin Fiyin     6 Mar  7 02:36 [01;34mnude_modules[0m
+-rw-r--r--. 1 Fiyin Fiyin 12288 Mar 11 16:00 typescript
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ll
+[?2004ltotal 16
+drwxr-xr-x. 2 Fiyin Fiyin     6 Mar  5 15:40 [0m[01;34mclass[0m
+drwxr-xr-x. 3 Fiyin Fiyin    21 Mar  5 15:47 [01;34mclass7a[0m
+drwxr-xr-x. 3 Fiyin Fiyin    21 Mar  5 15:49 [01;34mclass8a[0m
+drwxr-xr-x. 2 Fiyin Fiyin     6 Mar  5 15:55 [01;34mclass9a[0m
+-rw-r--r--. 1 Fiyin Fiyin   145 Mar  7 17:01 deploy.sh
+-rw-r--r--. 1 Fiyin Fiyin     0 Mar  5 21:13 fire
+drwxr-xr-x. 2 Fiyin Fiyin     6 Mar  7 02:36 [01;34mnude_modules[0m
+-rw-r--r--. 1 Fiyin Fiyin 12288 Mar 11 16:00 typescript
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ls /home
+[?2004l[0m[01;34mChioma[0m  [01;34mec2-user[0m  [01;34mFiyin[0m  [01;34mJola[0m  [01;34mOba[0m
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m/etc/shadow [27m/etc/shadow [1@t[1@a[1@i[1@l[1@ 
+[?2004ltail: cannot open '/etc/shadow' for reading: Permission denied
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ sud [Ko tail [7m/etc/shadow [27m/etc/shadow 
+[?2004ltss:!!:19384::::::
+sssd:!!:19384::::::
+chrony:!!:19384::::::
+sshd:!!:19384::::::
+systemd-oom:!*:19421::::::
+ec2-user:!!:19421:0:99999:7:::
+Fiyin:$6$H.ZBISe3ElK0rOQH$mGUqWlIvXFEUeevh5rvlnXoR52rVjn3KcIQ6hGF/f2MzeMTZ4Ex8q5iFWJir8.VgEWtnpYlMeVXKJybqZay9i/:19421:0:99999:7:::
+Jola:$6$gtIKp17HbuBZeVXd$17p6/fFa7/jXc1YERvTuxTFplPURKLFdNU6HsmZErkw0rGt.hhOUJ3HIe/72AxmdniAhOON0WsSePisSi9TKI1:19421:0:99999:7:::
+Oba:$6$e7Kaqo.S6SB8zecR$HKIz1gSlcwJI.IoMM/sC8iBkdYTfDzYOI4lIhmqayF13yTY6r1GUCobQkiDFVk9DRs6mmnfZB2tGEkQVjWBOk/:19421:0:99999:7:::
+Chioma:$6$yUESFDAF.a4FBHxa$9czlzQEFXE4tadQTH0LR7UK/ZQE0DTL5OGwZFbpxlbS/5Bm4Uqvv5F72RFItf1F2XLr/2uguuQTM5ayeEwREd.:19421:0:99999:7:::
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ta[K[Ksudo tail [7m/etc/passwd [27m/etc/passwd 
+[?2004ltss:x:59:59:Account used for TPM access:/dev/null:/sbin/nologin
+sssd:x:997:994:User for sssd:/:/sbin/nologin
+chrony:x:996:993::/var/lib/chrony:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/usr/share/empty.sshd:/sbin/nologin
+systemd-oom:x:991:991:systemd Userspace OOM Killer:/:/usr/sbin/nologin
+ec2-user:x:1000:1000:Cloud User:/home/ec2-user:/bin/bash
+Fiyin:x:1001:1001::/home/Fiyin:/bin/bash
+Jola:x:1002:1003::/home/Jola:/bin/bash
+Oba:x:1003:1004::/home/Oba:/bin/bash
+Chioma:x:1004:1005::/home/Chioma:/bin/bash
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m /etc/cron.allow  [27m /etc/cron.allow  [1@s[1@u[1@d[1@o[C[1@ [C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lsudo: /etc/cron.allow: command not found
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd /[K[7m /etc/cron.allow  [27m /etc/cron.allow  
+[?2004lbash: cd: /etc/cron.allow: No such file or directory
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ vi [7m /etc/cron.allow  [27m /etc/cron.allow  
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;58r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[58;1H"/etc/cron.allow" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]11;?[2;1H[1m[34m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [24;1H~                                                                                   [25;1H~                                                                                   [26;1H~                                                                                   [27;1H~                                                                                   [28;1H~                                                                                   [29;1H~                                                                                   [30;1H~                                                                                   [31;1H~                                                                                   [32;1H~                                                                                   [33;1H~                                                                                   [34;1H~                                                                                   [35;1H~                                                                                   [36;1H~                                                                                   [37;1H~                                                                                   [38;1H~                                                                                   [39;1H~                                                                                   [40;1H~                                                                                   [41;1H~                                                                                   [42;1H~                                                                                   [43;1H~                                                                                   [44;1H~                                                                                   [45;1H~                                                                                   [46;1H~                                                                                   [47;1H~                                                                                   [48;1H~                                                                                   [49;1H~                                                                                   [50;1H~                                                                                   [51;1H~                                                                                   [52;1H~                                                                                   [53;1H~                                                                                   [54;1H~                                                                                   [55;1H~                                                                                   [56;1H~                                                                                   [57;1H~                                                                                   [1;1H[?25h[?25l[m[58;1H[1m-- INSERT --[m[58;13H[K[1;1H[?25h[58;1H[K[1;1H[?25l[?25h[?25l[58;1H:[?25hq![?25l[?2004l[>4;m[58;1H[K[58;1H[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ t[Ksudo tail [7m /etc/cron.allow  [27m /etc/cron.allow  [C[C[C[1P
+[?2004ltail: cannot open '/etc/cron.allow' for reading: No such file or directory
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd /opt
+[?2004l]0;Fiyin@Fresh:/opt[?2004h[Fiyin@Fresh opt]$ ls
+[?2004l]0;Fiyin@Fresh:/opt[?2004h[Fiyin@Fresh opt]$ ll
+[?2004ltotal 0
+]0;Fiyin@Fresh:/opt[?2004h[Fiyin@Fresh opt]$ cd 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd proc
+[?2004lbash: cd: proc: No such file or directory
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd /proc
+[?2004l]0;Fiyin@Fresh:/proc[?2004h[Fiyin@Fresh proc]$ ls
+[?2004l[0m[01;34m1[0m     [01;34m1411[0m  [01;34m3[0m    [01;34m4[0m    [01;34m538[0m  [01;34m912[0m         devices        kpagecount    swaps
+[01;34m10[0m    [01;34m1432[0m  [01;34m30[0m   [01;34m400[0m  [01;34m54[0m   [01;34m913[0m         diskstats      kpageflags    [01;34msys[0m
+[01;34m11[0m    [01;34m1433[0m  [01;34m31[0m   [01;34m401[0m  [01;34m540[0m  [01;34m930[0m         dma            loadavg       sysrq-trigger
+[01;34m1140[0m  [01;34m15[0m    [01;34m32[0m   [01;34m402[0m  [01;34m541[0m  [01;34m932[0m         [01;34mdriver[0m         locks         [01;34msysvipc[0m
+[01;34m1142[0m  [01;34m16[0m    [01;34m33[0m   [01;34m403[0m  [01;34m572[0m  [01;34m935[0m         [01;34mdynamic_debug[0m  mdstat        [01;36mthread-self[0m
+[01;34m1144[0m  [01;34m18[0m    [01;34m34[0m   [01;34m44[0m   [01;34m594[0m  [01;34m937[0m         execdomains    meminfo       timer_list
+[01;34m1146[0m  [01;34m184[0m   [01;34m35[0m   [01;34m47[0m   [01;34m598[0m  [01;34m945[0m         fb             misc          [01;34mtty[0m
+[01;34m1165[0m  [01;34m19[0m    [01;34m37[0m   [01;34m48[0m   [01;34m6[0m    [01;34m946[0m         filesystems    modules       uptime
+[01;34m1166[0m  [01;34m2[0m     [01;34m38[0m   [01;34m49[0m   [01;34m601[0m  [01;34m965[0m         [01;34mfs[0m             [01;36mmounts[0m        version
+[01;34m12[0m    [01;34m20[0m    [01;34m382[0m  [01;34m50[0m   [01;34m602[0m  [01;34m966[0m         interrupts     mtrr          vmallocinfo
+[01;34m1255[0m  [01;34m21[0m    [01;34m383[0m  [01;34m51[0m   [01;34m603[0m  [01;34macpi[0m        iomem          [01;36mnet[0m           vmstat
+[01;34m1259[0m  [01;34m22[0m    [01;34m384[0m  [01;34m519[0m  [01;34m609[0m  bootconfig  ioports        pagetypeinfo  [01;34mxen[0m
+[01;34m1280[0m  [01;34m23[0m    [01;34m385[0m  [01;34m52[0m   [01;34m655[0m  buddyinfo   [01;34mirq[0m            partitions    zoneinfo
+[01;34m13[0m    [01;34m24[0m    [01;34m386[0m  [01;34m53[0m   [01;34m66[0m   [01;34mbus[0m         kallsyms       schedstat
+[01;34m1305[0m  [01;34m25[0m    [01;34m395[0m  [01;34m532[0m  [01;34m661[0m  cgroups     kcore          [01;34mscsi[0m
+[01;34m1307[0m  [01;34m26[0m    [01;34m396[0m  [01;34m534[0m  [01;34m662[0m  cmdline     keys           [01;36mself[0m
+[01;34m1348[0m  [01;34m27[0m    [01;34m397[0m  [01;34m535[0m  [01;34m9[0m    consoles    key-users      slabinfo
+[01;34m14[0m    [01;34m28[0m    [01;34m398[0m  [01;34m536[0m  [01;34m909[0m  cpuinfo     kmsg           softirqs
+[01;34m1401[0m  [01;34m29[0m    [01;34m399[0m  [01;34m537[0m  [01;34m911[0m  crypto      kpagecgroup    stat
+]0;Fiyin@Fresh:/proc[?2004h[Fiyin@Fresh proc]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:/proc[?2004h[Fiyin@Fresh proc]$ vi app.js
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;58r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[58;1H"app.js" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]11;?[2;1H[1m[34m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [24;1H~                                                                                   [25;1H~                                                                                   [26;1H~                                                                                   [27;1H~                                                                                   [28;1H~                                                                                   [29;1H~                                                                                   [30;1H~                                                                                   [31;1H~                                                                                   [32;1H~                                                                                   [33;1H~                                                                                   [34;1H~                                                                                   [35;1H~                                                                                   [36;1H~                                                                                   [37;1H~                                                                                   [38;1H~                                                                                   [39;1H~                                                                                   [40;1H~                                                                                   [41;1H~                                                                                   [42;1H~                                                                                   [43;1H~                                                                                   [44;1H~                                                                                   [45;1H~                                                                                   [46;1H~                                                                                   [47;1H~                                                                                   [48;1H~                                                                                   [49;1H~                                                                                   [50;1H~                                                                                   [51;1H~                                                                                   [52;1H~                                                                                   [53;1H~                                                                                   [54;1H~                                                                                   [55;1H~                                                                                   [56;1H~                                                                                   [57;1H~                                                                                   [1;1H[?25h[?25l[m[58;1H[1m-- INSERT --[m[58;13H[K[1;1H[?25h[?25l#[?25h[?25l![?25h[?25l/[?25h[?25lb[?25h[?25li[?25h[?25ln[?25h[?25l/[?25h[?25lb[?25h[?25la[?25h[?25ls[?25h[?25lh[?25h[?25l[2;1H[K[2;1H[?25h[?25l#[?25h[?25l [?25h[?25lType 'i' to enter insert mode
+       This will pe[3;20H[K[3;20H[?25h[?25lrmit modification[4;1H[K[5;1H    2. After editing the file enter co[5;39H[K[5;39H[?25h[?25lmmand mode
+       Type esc key to enter command mode [6;43H[K[7;1H[K[8;1H    3[8;6H[K[8;6H[?25h[?25l. Type ':wq!' or ':wq' and press enter to save and quit
+     [9;6H[K[9;6H[?25h[?25l    press 'shift and do zz'[10;1H[K[11;1H    4. Type esc key to enter comm[11;34H[K[11;34H[?25h[?25land mode
+       Type " :q! " and press enter to quit without[12;52H[K[12;52H[?25h[?25l saving[?25h[58;1H[K[12;58H[?25l[?25h[?25l[58;1H:[?25hwq![?25l[?2004l[>4;m"app.js"
+[1m[37m[41m"app.js" E212: Can't open file for writing[?2004h[>4;2m[m
+[32mPress ENTER or type command to continue[?25h[m[1;1H[2L[?25l[1;1H#!/bin/bash
+# Type 'i' to enter insert mode[58;1H[K[12;58H[?25hress enter to [?25l[58;1H[1m-- INSERT --[m[12;40Hiquit without saving[12;41H[?25h[?25liquit without saving[12;42H[?25h[?25liquit without saving[12;43H[?25hquit without saving[?25l[12;61H[K[12;61H[?25h[?25l[12;60H[K[12;60H[?25h[?25l[12;59H[K[12;59H[?25h[?25l[12;58H[K[12;58H[?25h[?25l[12;57H[K[12;57H[?25h[?25l[12;56H[K[12;56H[?25h[?25l[?25h[?25l[12;54H[K[12;54H[?25h[?25l[12;53H[K[12;53H[?25h[?25l[12;52H[K[12;52H[?25h[?25l[12;51H[K[12;51H[?25h[?25l[12;50H[K[12;50H[?25h[?25l[12;49H[K[12;49H[?25h[?25l[12;48H[K[12;48H[?25h[?25l[?25h[?25l[12;46H[K[12;46H[?25h[?25l[12;45H[K[12;45H[?25h[?25l[12;43H[K[12;43H[?25h[?25l[12;42H[K[12;42H[?25h[?25l[12;40H[K[12;40H[?25h[?25l[?25h[?25l[12;38H[K[12;38H[?25h[?25l[12;37H[K[12;37H[?25h[?25l[?25h[?25l[12;34H[K[12;34H[?25h[?25l[12;33H[K[12;33H[?25h[?25l[12;32H[K[12;32H[?25h[?25l[12;31H[K[12;31H[?25h[?25l[?25h[?25l[12;29H[K[12;29H[?25h[?25l[12;28H[K[12;28H[?25h[?25l[12;27H[K[12;27H[?25h[?25l[12;26H[K[12;26H[?25h[?25l[12;25H[K[12;25H[?25h[?25l[?25h[?25l[12;23H[K[12;23H[?25h[?25l[12;22H[K[12;22H[?25h[?25l[12;21H[K[12;21H[?25h[?25l[?25h[?25l[12;19H[K[12;19H[?25h[?25l[?25h[?25l[12;17H[K[12;17H[?25h[?25l[12;16H[K[12;16H[?25h[?25l[12;15H[K[12;15H[?25h[?25l[?25h[?25l[12;13H[K[12;13H[?25h[?25l[12;11H[K[12;11H[?25h[?25l[12;10H[K[12;10H[?25h[?25l[12;9H[K[12;9H[?25h[?25l[12;8H[K[12;8H[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[1m[34m~                                                                                   [11;44H[?25h[?25l[?25h[?25l[m[11;41H[K[11;41H[?25h[?25l[11;40H[K[11;40H[?25h[?25l[11;39H[K[11;39H[?25h[?25l[11;38H[K[11;38H[?25h[?25l[?25h[?25l[11;36H[K[11;36H[?25h[?25l[11;34H[K[11;34H[?25h[?25l[11;33H[K[11;33H[?25h[?25l[11;32H[K[11;32H[?25h[?25l[11;31H[K[11;31H[?25h[?25l[11;30H[K[11;30H[?25h[?25l[?25h[?25l[11;28H[K[11;28H[?25h[?25l[11;27H[K[11;27H[?25h[?25l[11;26H[K[11;26H[?25h[?25l[11;24H[K[11;24H[?25h[?25l[?25h[?25l[11;22H[K[11;22H[?25h[?25l[11;21H[K[11;21H[?25h[?25l[?25h[?25l[11;19H[K[11;19H[?25h[?25l[11;18H[K[11;18H[?25h[?25l[11;17H[K[11;17H[?25h[?25l[?25h[?25l[11;15H[K[11;15H[?25h[?25l[11;14H[K[11;14H[?25h[?25l[11;13H[K[11;13H[?25h[?25l[?25h[?25l[11;11H[K[11;11H[?25h[?25l[11;10H[K[11;10H[?25h[?25l[11;9H[K[11;9H[?25h[?25l[11;8H[K[11;8H[?25h[?25l[?25h[?25l[11;6H[K[11;6H[?25h[?25l[11;5H[K[11;5H[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[1m[34m~                                                                                   [10;1H[?25h[?25l~                                                                                   [9;33H[?25h[?25l[m[9;32H[K[9;32H[?25h[?25l[9;31H[K[9;31H[?25h[?25l[9;30H[K[9;29H[?25h[?25l[9;28H[K[9;28H[?25h[?25l[9;27H[K[9;27H[?25h[?25l[?25h[?25l[9;25H[K[9;25H[?25h[?25l[9;24H[K[9;24H[?25h[?25l[9;23H[K[9;23H[?25h[?25l[9;21H[K[9;21H[?25h[?25l[9;20H[K[9;20H[?25h[?25l[9;19H[K[9;19H[?25h[?25l[9;18H[K[9;18H[?25h[?25l[9;17H[K[9;17H[?25h[?25l[9;16H[K[9;16H[?25h[?25l[?25h[?25l[9;14H[K[9;14H[?25h[?25l[9;13H[K[9;13H[?25h[?25l[9;12H[K[9;12H[?25h[?25l[9;11H[K[9;11H[?25h[?25l[9;10H[K[9;10H[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[1m[34m~                                                                                   [8;61H[?25h[?25l[m[8;60H[K[8;60H[?25h[?25l[8;59H[K[8;59H[?25h[?25l[8;58H[K[8;58H[?25h[?25l[8;57H[K[8;57H[?25h[?25l[?25h[?25l[8;55H[K[8;55H[?25h[?25l[8;54H[K[8;54H[?25h[?25l[8;53H[K[8;53H[?25h[?25l[?25h[?25l[8;50H[K[8;50H[?25h[?25l[8;49H[K[8;49H[?25h[?25l[8;48H[K[8;48H[?25h[?25l[?25h[?25l[8;46H[K[8;46H[?25h[?25l[8;45H[K[8;45H[?25h[?25l[?25h[?25l[8;43H[K[8;43H[?25h[?25l[8;42H[K[8;42H[?25h[?25l[8;41H[K[8;41H[?25h[?25l[8;40H[K[8;40H[?25h[?25l[8;39H[K[8;39H[?25h[?25l[?25h[?25l[8;37H[K[8;37H[?25h[?25l[8;35H[K[8;35H[?25h[?25l[8;34H[K[8;34H[?25h[?25l[8;33H[K[8;33H[?25h[?25l[?25h[?25l[8;31H[K[8;31H[?25h[?25l[8;30H[K[8;30H[?25h[?25l[8;29H[K[8;29H[?25h[?25l[8;27H[K[8;27H[?25h[?25l[8;26H[K[8;26H[?25h[?25l[8;25H[K[8;25H[?25h[?25l[8;24H[K[8;24H[?25h[?25l[8;23H[K[8;23H[?25h[?25l[?25h[?25l[8;20H[K[8;20H[?25h[?25l[?25h[?25l[8;18H[K[8;18H[?25h[?25l[8;17H[K[8;17H[?25h[?25l[8;16H[K[8;16H[?25h[?25l[8;15H[K[8;15H[?25h[?25l[8;14H[K[8;14H[?25h[?25l[8;13H[K[8;13H[?25h[?25l[?25h[?25l[8;11H[K[8;11H[?25h[?25l[8;10H[K[8;10H[?25h[?25l[8;9H[K[8;9H[?25h[?25l[8;8H[K[8;8H[?25h[?25l[?25h[?25l[8;6H[K[8;6H[?25h[?25l[8;5H[K[8;5H[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[1m[34m~                                                                                   [7;1H[?25h[?25l~                                                                                   [6;43H[?25h[?25l[?25h[?25l[m[6;41H[K[6;41H[?25h[?25l[6;40H[K[6;40H[?25h[?25l[6;39H[K[6;39H[?25h[?25l[6;38H[K[6;38H[?25h[?25l[?25h[?25l[6;36H[K[6;36H[?25h[?25l[6;35H[K[6;35H[?25h[?25l[6;34H[K[6;34H[?25h[?25l[6;33H[K[6;33H[?25h[?25l[6;32H[K[6;32H[?25h[?25l[6;31H[K[6;31H[?25h[?25l[6;30H[K[6;30H[?25h[?25l[?25h[?25l[6;28H[K[6;28H[?25h[?25l[6;27H[K[6;27H[?25h[?25l[6;26H[K[6;26H[?25h[?25l[6;25H[K[6;25H[?25h[?25l[6;24H[K[6;24H[?25h[?25l[?25h[?25l[6;22H[K[6;22H[?25h[?25l[6;21H[K[6;21H[?25h[?25l[?25h[?25l[6;19H[K[6;19H[?25h[?25l[6;18H[K[6;18H[?25h[?25l[6;17H[K[6;16H[?25h[?25l[6;15H[K[6;15H[?25h[?25l[6;14H[K[6;14H[?25h[?25l[6;13H[K[6;13H[?25h[?25l[?25h[?25l[6;11H[K[6;11H[?25h[?25l[6;10H[K[6;10H[?25h[?25l[6;9H[K[6;9H[?25h[?25l[6;8H[K[6;8H[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[1m[34m~                                                                                   [5;49H[?25h[?25l[m[5;48H[K[5;48H[?25h[?25l[5;47H[K[5;47H[?25h[?25l[5;46H[K[5;46H[?25h[?25l[5;45H[K[5;45H[?25h[?25l[?25h[?25l[5;43H[K[5;43H[?25h[?25l[5;42H[K[5;42H[?25h[?25l[5;41H[K[5;41H[?25h[?25l[5;40H[K[5;40H[?25h[?25l[5;39H[K[5;39H[?25h[?25l[5;38H[K[5;38H[?25h[?25l[5;37H[K[5;37H[?25h[?25l[?25h[?25l[5;35H[K[5;35H[?25h[?25l[5;34H[K[5;34H[?25h[?25l[5;33H[K[5;33H[?25h[?25l[5;32H[K[5;32H[?25h[?25l[5;31H[K[5;31H[?25h[?25l[?25h[?25l[5;29H[K[5;29H[?25h[?25l[5;28H[K[5;28H[?25h[?25l[5;27H[K[5;27H[?25h[?25l[5;26H[K[5;26H[?25h[?25l[?25h[?25l[5;24H[K[5;24H[?25h[?25l[5;23H[K[5;23H[?25h[?25l[5;22H[K[5;22H[?25h[?25l[?25h[?25l[5;20H[K[5;20H[?25h[?25l[5;19H[K[5;19H[?25h[?25l[5;18H[K[5;18H[?25h[?25l[5;17H[K[5;17H[?25h[?25l[5;16H[K[5;16H[?25h[?25l[5;15H[K[5;15H[?25h[?25l[5;14H[K[5;14H[?25h[?25l[?25h[?25l[5;12H[K[5;12H[?25h[?25l[5;11H[K[5;11H[?25h[?25l[5;10H[K[5;10H[?25h[?25l[5;9H[K[5;9H[?25h[?25l[5;8H[K[5;8H[?25h[?25l[?25h[?25l[5;6H[K[5;6H[?25h[?25l[5;5H[K[5;4H[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[1m[34m~                                                                                   [4;1H[?25h[?25l~                                                                                   [3;38H[?25h[?25l[?25h[?25l[m[3;36H[K[3;36H[?25h[?25l[3;35H[K[3;35H[?25h[?25l[3;34H[K[3;34H[?25h[?25l[3;33H[K[3;33H[?25h[?25l[3;32H[K[3;32H[?25h[?25l[3;31H[K[3;31H[?25h[?25l[3;30H[K[3;30H[?25h[?25l[3;29H[K[3;29H[?25h[?25l[3;28H[K[3;28H[?25h[?25l[3;27H[K[3;27H[?25h[?25l[3;26H[K[3;26H[?25h[?25l[3;25H[K[3;25H[?25h[?25l[?25h[?25l[3;23H[K[3;23H[?25h[?25l[3;22H[K[3;22H[?25h[?25l[3;20H[K[3;20H[?25h[?25l[3;19H[K[3;19H[?25h[?25l[3;18H[K[3;18H[?25h[?25l[?25h[?25l[3;16H[K[3;16H[?25h[?25l[3;15H[K[3;15H[?25h[?25l[3;14H[K[3;14H[?25h[?25l[3;13H[K[3;13H[?25h[?25l[?25h[?25l[3;11H[K[3;11H[?25h[?25l[3;10H[K[3;10H[?25h[?25l[3;9H[K[3;9H[?25h[?25l[3;8H[K[3;8H[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[1m[34m~                                                                                   [2;32H[?25h[?25l[m[2;31H[K[2;31H[?25h[?25l[2;30H[K[2;30H[?25h[?25l[2;29H[K[2;29H[?25h[?25l[2;28H[K[2;27H[?25h[?25l[2;26H[K[2;26H[?25h[?25l[2;25H[K[2;25H[?25h[?25l[2;24H[K[2;24H[?25h[?25l[2;23H[K[2;23H[?25h[?25l[2;22H[K[2;22H[?25h[?25l[2;21H[K[2;21H[?25h[?25l[?25h[?25l[2;19H[K[2;19H[?25h[?25l[2;18H[K[2;18H[?25h[?25l[2;17H[K[2;17H[?25h[?25l[2;16H[K[2;16H[?25h[?25l[2;15H[K[2;15H[?25h[?25l[?25h[?25l[2;13H[K[2;13H[?25h[?25l[2;12H[K[2;12H[?25h[?25l[?25h[?25l[2;10H[K[2;10H[?25h[?25l[2;9H[K[2;9H[?25h[?25l[2;8H[K[2;8H[?25h[?25l[?25h[?25l[2;6H[K[2;6H[?25h[?25l[2;5H[K[2;5H[?25h[?25l[2;4H[K[2;4H[?25h[?25l[2;3H[K[2;3H[?25h[?25l[?25h[?25l [?25h[?25lT[?25h[?25lh[?25h[?25li[?25h[?25ls[?25h[?25l [?25h[?25l[?25h[?25l[2;6H[K[2;6H[?25h[?25l[2;5H[K[2;5H[?25h[?25l[2;4H[K[2;4H[?25h[?25l[2;3H[K[2;3H[?25h[?25lN[?25h[?25le[?25h[?25lw[?25h[?25l [?25h[?25lp[?25h[?25lo[?25h[?25ls[?25h[?25lt[?25h[?25l[3;1H[K[3;1H[?25h[?25lE[?25h[?25lc[?25h[?25l[3;2H[K[3;2H[?25h[?25l[3;1H[K[3;1H[?25h[?25l[1m[34m~                                                                                   [2;11H[?25h[?25l[m[2;10H[K[2;10H[?25h[?25l[2;9H[K[2;9H[?25h[?25ls[?25h[?25lt[?25h[?25l[3;1H[K[3;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l"[?25h[?25l"[?25h[?25lt"[?25h[?25lh"[?25h[?25la"[?25h[?25ln"[?25h[?25lk"[?25h"[?25l[4;1H[K[4;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l"[?25h[?25l"[?25h[?25ly"[?25h[?25lo"[?25h[?25lu"[?25h"[?25l[5;1H[K[5;1H[?25h[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l"[?25h[?25l"[?25h[?25lJ"[?25h[?25lE"[?25h[?25lS"[?25h[?25lU"[?25h[?25lS"[?25h"[?25ld[?25h[?25l[5;13H[K[5;13H[?25h[?25l[6;1H[K[6;1H[?25h[?25lw[?25h[?25lh[?25h[?25lo[?25h[?25la[?25h[?25lm[?25h[?25li[?25h[?25l[7;1H[K[7;1H[?25h[?25ld[?25h[?25la[?25h[?25lt[?25h[?25le[?25h[58;1H[K[7;4H[?25l[?25h[?25l[58;1H:[?25hwq![?25l[?2004l[>4;m"app.js"
+[1m[37m[41m"app.js" E212: Can't open file for writing[?2004h[>4;2m[m
+[32mPress ENTER or type command to continue[?25h[m[1;1H[2L[?25l[1;1H#!/bin/bash
+# New post[58;1H[K[7;4H[?25h[6;6H[5;12H[4;10H[?25l[58;1H[1m-- INSERT --[4;9H[?25h[?25l[miu"[?25h[?25liu"[?25h[5;11H[6;7H
+date[?25l[7;4H[K[7;4H[?25h[?25l[7;3H[K[7;3H[?25h[?25l[7;2H[K[7;2H[?25h[?25l[7;1H[K[7;1H[?25h[?25l[1m[34m~                                                                                   [6;7H[?25h[?25l[m[6;6H[K[6;6H[?25h[?25l[6;5H[K[6;5H[?25h[?25l[6;4H[K[6;4H[?25h[?25l[6;3H[K[6;3H[?25h[?25l[6;2H[K[6;2H[?25h[?25l[1m[34m~                                                                                   [5;13H[?25h[?25l[m[5;12H[K[5;12H[?25h[?25l[5;9H[K[5;9H[?25h[?25l[5;7H[K[5;7H[?25h[?25l[5;6H[K[5;6H[?25h[?25l[?25h[?25l[5;4H[K[5;4H[?25h[?25l[5;3H[K[5;3H[?25h[?25l[5;1H[K[5;1H[?25h[?25l[1m[34m~                                                                                   [4;13H[?25h[?25l[m[4;12H[K[4;12H[?25h[?25l[4;10H[K[4;10H[?25h[?25l[4;9H[K[4;9H[?25h[?25l[4;8H[K[4;8H[?25h[?25l[4;6H[K[4;6H[?25h[?25l[?25h[?25l[4;3H[K[4;3H[?25h[?25l[4;2H[K[4;2H[?25h[?25l[4;1H[K[4;1H[?25h[?25l[3;11H[K[4;1H[1m[34m~                                                                                   [3;11H[?25h[?25l[m[3;10H[K[3;10H[?25h[?25l[3;9H[K[3;9H[?25h[?25l[3;8H[K[3;8H[?25h[?25l[3;7H[K[3;7H[?25h[?25l[3;6H[K[3;6H[?25h[?25l[?25h[?25l[3;4H[K[3;4H[?25h[?25l[3;3H[K[3;3H[?25h[?25l[3;2H[K[3;2H[?25h[?25l[1m[34m~                                                                                   [2;11H[?25h[?25l[m[2;10H[K[2;10H[?25h[?25l[2;9H[K[2;9H[?25h[?25l[2;8H[K[2;8H[?25h[?25l[2;7H[K[2;7H[?25h[?25l[?25h[?25l[2;5H[K[2;5H[?25h[?25l[2;4H[K[2;4H[?25h[?25l[2;3H[K[2;3H[?25h[?25l[?25h[?25l[2;1H[K[2;1H[?25h[?25l[1m[34m~                                                                                   [1;12H[?25h[?25l[m[1;11H[K[1;11H[?25h[?25l[1;10H[K[1;10H[?25h[?25l[1;9H[K[1;9H[?25h[?25l[1;8H[K[1;8H[?25h[?25l[1;7H[K[1;7H[?25h[?25l[1;6H[K[1;6H[?25h[?25l[1;5H[K[1;5H[?25h[?25l[1;4H[K[1;4H[?25h[?25l[1;3H[K[1;3H[?25h[?25l[1;2H[K[1;2H[?25h[?25l[1;1H[K[1;1H[?25h[58;1H[K[1;1H[?25l[?25h[?25l[58;1H:[?25hwq![?25l[?2004l[>4;m"app.js"
+[1m[37m[41m"app.js" E212: Can't open file for writing[?2004h[>4;2m[m
+[32mPress ENTER or type command to continue[?25h[m[1;1H[2L[?25l[2;1H[1m[34m~                                                                                   [m[58;1H[K[1;1H[?25h[?25l[58;1H[1m-- INSERT --[1;1H[?25h[?25l[mi[?25h[?25li[?25h[?25li[?25h[?25li[?25h[?25li[?25h[?25li[?25h[?25li[?25h[?25li[?25h[?25l[2;1H[K[2;1H[?25h[?25l[3;1H[K[3;1H[?25h[?25l[4;1H[K[4;1H[?25h[?25l[5;1H[K[5;1H[?25h[?25l[6;1H[K[6;1H[?25h[?25l[7;1H[K[7;1H[?25h[?25l[8;1H[K[8;1H[?25h[?25l[9;1H[K[9;1H[?25h[?25l[10;1H[K[10;1H[?25h[?25l[11;1H[K[11;1H[?25h[?25l[12;1H[K[12;1H[?25h[?25l[13;1H[K[13;1H[?25h[?25l[14;1H[K[14;1H[?25h[?25l[15;1H[K[15;1H[?25h[?25l[16;1H[K[16;1H[?25h[?25l[17;1H[K[17;1H[?25h[?25l[18;1H[K[18;1H[?25h[?25l[19;1H[K[19;1H[?25h[?25l[20;1H[K[20;1H[?25h[?25l[21;1H[K[21;1H[?25h[?25l[1m[34m~                                                                                   [20;1H[?25h[?25l~                                                                                   [19;1H[?25h[?25l~                                                                                   [18;1H[?25h[?25l~                                                                                   [17;1H[?25h[?25l~                                                                                   [16;1H[?25h[?25l~                                                                                   [15;1H[?25h[?25l~                                                                                   [14;1H[?25h[?25l~                                                                                   [13;1H[?25h[?25l~                                                                                   [12;1H[?25h[?25l~                                                                                   [11;1H[?25h[?25l~                                                                                   [10;1H[?25h[?25l~                                                                                   [9;1H[?25h[?25l~                                                                                   [8;1H[?25h[?25l~                                                                                   [7;1H[?25h[?25l~                                                                                   [6;1H[?25h[?25l[5;1H~                                                                                   [6;1H~                                                                                   [4;1H[?25h[?25l~                                                                                   [3;1H[?25h[?25l~                                                                                   [2;1H[?25h[?25l~                                                                                   [1;9H[?25h[?25l[m[1;8H[K[1;8H[?25h[?25l[1;7H[K[1;7H[?25h[?25l[1;6H[K[1;6H[?25h[?25l[1;5H[K[1;5H[?25h[?25l[1;4H[K[1;4H[?25h[?25l[1;3H[K[1;3H[?25h[?25l[1;2H[K[1;2H[?25h[?25l[1;1H[K[1;1H[?25h[?25l:[?25h[?25lw[?25h[?25lq[?25h[?25l![?25h[?25l[2;1H[K[2;1H[?25h[?25l[1m[34m~                                                                                   [1;5H[?25h[?25l[m[1;4H[K[1;4H[?25h[?25l[1;3H[K[1;3H[?25h[?25l[1;2H[K[1;2H[?25h[?25l[1;1H[K[1;1H[?25h[58;1H[K[1;1H[?25l[?25h[?25l[58;1H:[?25hwq![?25l[?2004l[>4;m"app.js"
+[1m[37m[41m"app.js" E212: Can't open file for writing[?2004h[>4;2m[m
+[32mPress ENTER or type command to continue[?25h[m[1;1H[2L[?25l[2;1H[1m[34m~                                                                                   [m[58;1H[K[1;1H[?25h[?25l[58;1H[1m-- INSERT --[1;1H[?25h[?25l[m:[?25h[?25lq[?25h[?25l![?25h[?25l[2;1H[K[2;1H[?25h[?25l[1m[34m~                                                                                   [1;4H[?25h[?25l[m[1;3H[K[1;3H[?25h[?25l[1;2H[K[1;2H[?25h[?25l[1;1H[K[1;1H[?25h[58;1H[K[1;1H[?25l[?25h[?25l[58;1H:[?25hq![?25l[?2004l[>4;m[58;1H[K[58;1H[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;Fiyin@Fresh:/proc[?2004h[Fiyin@Fresh proc]$ [7mtouch .config  [27mtouch .config  
+[?2004ltouch: cannot touch '.config': No such file or directory
+]0;Fiyin@Fresh:/proc[?2004h[Fiyin@Fresh proc]$ cd -
+[?2004l/home/Fiyin
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cd
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ech [Ko i[KI will be rich in 2020[K2 > app.js
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7mecho "In Jesus Name" >> app.js[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "In Jesus Name" >> app.js
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ vi app.js
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;58r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[58;1H"app.js" 2L, 37B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]11;?[1;1HI will be rich in 2022
+In Jesus Name[2;14H[K[3;1H[1m[34m~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [24;1H~                                                                                   [25;1H~                                                                                   [26;1H~                                                                                   [27;1H~                                                                                   [28;1H~                                                                                   [29;1H~                                                                                   [30;1H~                                                                                   [31;1H~                                                                                   [32;1H~                                                                                   [33;1H~                                                                                   [34;1H~                                                                                   [35;1H~                                                                                   [36;1H~                                                                                   [37;1H~                                                                                   [38;1H~                                                                                   [39;1H~                                                                                   [40;1H~                                                                                   [41;1H~                                                                                   [42;1H~                                                                                   [43;1H~                                                                                   [44;1H~                                                                                   [45;1H~                                                                                   [46;1H~                                                                                   [47;1H~                                                                                   [48;1H~                                                                                   [49;1H~                                                                                   [50;1H~                                                                                   [51;1H~                                                                                   [52;1H~                                                                                   [53;1H~                                                                                   [54;1H~                                                                                   [55;1H~                                                                                   [56;1H~                                                                                   [57;1H~                                                                                   [1;1H[?25h[?25l[m[58;1H[K[58;1H:[?25hwq![?25l[?2004l[>4;m"app.js" 2L, 37B written
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ cat depol[K[Kloy.sh
+[?2004l#!/bin/bash
+# This is a shell script 
+# Used for pratice 
+echo "I feel good"
+echo "I feel good"
+echo "So good"
+echo "Thank You ABBA"
+whoami
+date
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ find -f app,[K.js
+[?2004lfind: unknown predicate `-f'
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ -f app.js
+[?2004lbash: -f: command not found
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ finf[Kd app.js
+[?2004lapp.js
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7mln -s  deploy.sh deploy-sl.sh [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cln -s  deploy.sh deploy-sl.sh [C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7mln  deploy.sh deploy-bk.sh  [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cln  deploy.sh deploy-bk.sh  [1P
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m cp  deploy.sh  deploy-bk.sh  [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C cp  deploy.sh  deploy-bk.sh  [C[C[C[C[C[C[C[C[1P[1P
+[?2004lcp: 'deploy.sh' and 'deploy-bk.sh' are the same file
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ la[Kocate deploy.sh
+[?2004lbash: locate: command not found
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m systemctl status sshd[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C systemctl status sshd
+[?2004l[?1h=[0;1;32m●[0m sshd.service - OpenSSH server daemon[m
+     Loaded: loaded (]8;;file://Fresh/usr/lib/systemd/system/sshd.service/usr/lib/systemd/system/sshd.service]8;;; enabled; vendor preset: [m[7m>[27m
+     Active: [0;1;32mactive (running)[0m since Sat 2023-03-11 14:08:29 UTC; 2h 46min ago[m
+       Docs: ]8;;man:sshd(8)man:sshd(8)]8;;[m
+             ]8;;man:sshd_config(5)man:sshd_config(5)]8;;[m
+   Main PID: 909 (sshd)[m
+      Tasks: 1 (limit: 5704)[m
+     Memory: 10.5M[m
+        CPU: 379ms[m
+     CGroup: /system.slice/sshd.service[m
+             └─[0;38;5;245m909 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"[0m[m
+[7mlines 1-11/11 (END)[27m[K[K[K[7mlines 1-11/11 (END)[27m[K[K/[K...skipping...
+[0;1;32m●[0m sshd.service - OpenSSH server daemon[m
+     Loaded: loaded (]8;;file://Fresh/usr/lib/systemd/system/sshd.service/usr/lib/systemd/system/sshd.service]8;;; enabled; vendor preset: [m[7m>[27m
+     Active: [0;1;32mactive (running)[0m since Sat 2023-03-11 14:08:29 UTC; 2h 46min ago[m
+       Docs: ]8;;man:sshd(8)man:sshd(8)]8;;[m
+             ]8;;man:sshd_config(5)man:sshd_config(5)]8;;[m
+   Main PID: 909 (sshd)[m
+      Tasks: 1 (limit: 5704)[m
+     Memory: 10.5M[m
+        CPU: 379ms[m
+     CGroup: /system.slice/sshd.service[m
+             └─[0;38;5;245m909 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"[0m[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[K[7mNo previous regular expression  (press RETURN)[27m[58;1H[K[K[7mlines 1-11/11 (END)[27m[K[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K[7mlines 1-11/11 (END)[27m[K[K [KESCESC[K::[K[7mlines 1-11/11 (END)[27m[K[K[?1l>]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m systemctl status httpd  [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C systemctl status httpd  
+[?2004l[?1h=Unit httpd.service could not be found.[m
+[K[?1l>]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7msystemctl status ntpd [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csystemctl status ntpd 
+[?2004l[?1h=Unit ntpd.service could not be found.[m
+[K[?1l>]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m service sshd status [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C service sshd status 
+[?2004lRedirecting to /bin/systemctl status sshd.service
+[?1h=[0;1;32m●[0m sshd.service - OpenSSH server daemon[m
+     Loaded: loaded (]8;;file://Fresh/usr/lib/systemd/system/sshd.service/usr/lib/systemd/system/sshd.service]8;;; enabled; vendor preset: [m[7m>[27m
+     Active: [0;1;32mactive (running)[0m since Sat 2023-03-11 14:08:29 UTC; 2h 50min ago[m
+       Docs: ]8;;man:sshd(8)man:sshd(8)]8;;[m
+             ]8;;man:sshd_config(5)man:sshd_config(5)]8;;[m
+   Main PID: 909 (sshd)[m
+      Tasks: 1 (limit: 5704)[m
+     Memory: 10.5M[m
+        CPU: 379ms[m
+     CGroup: /system.slice/sshd.service[m
+             └─[0;38;5;245m909 "sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups"[0m[m
+[7mlines 1-11/11 (END)[27m[K[K [K::[Kqq[K[?1l>]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m service sshd status [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C service sshd status [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7msystemctl list-unit-files[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csystemctl list-unit-files
+[?2004l[?1h=[0m[0;4mUNIT FILE                                 [0m[0m[0;4m STATE          [0m[0m[0;4m VENDOR PRESET[0m[m
+efi.automount                              generated       [0;38;5;245m-            [0m[m
+[0m[0;4mproc-sys-fs-binfmt_misc.automount         [0m[0m[0;4m [0m[0m[0;4mstatic         [0m[0m[0;4m [0m[0;38;5;245m[0;4m-            [0m[m
+-.mount                                    generated       [0;38;5;245m-            [0m[m
+boot-efi.mount                             generated       [0;38;5;245m-            [0m[m
+boot.mount                                 generated       [0;38;5;245m-            [0m[m
+dev-hugepages.mount                        static          [0;38;5;245m-            [0m[m
+dev-mqueue.mount                           static          [0;38;5;245m-            [0m[m
+efi.mount                                  generated       [0;38;5;245m-            [0m[m
+proc-sys-fs-binfmt_misc.mount              [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+sys-fs-fuse-connections.mount              static          [0;38;5;245m-            [0m[m
+sys-kernel-config.mount                    static          [0;38;5;245m-            [0m[m
+sys-kernel-debug.mount                     static          [0;38;5;245m-            [0m[m
+sys-kernel-tracing.mount                   static          [0;38;5;245m-            [0m[m
+[0m[0;4mtmp.mount                                 [0m[0m[0;4m [0m[0;1;31m[0;4mdisabled       [0m[0;1;31m[0;4m [0m[0;1;31m[0;4mdisabled     [0m[m
+insights-client-results.path               [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+systemd-ask-password-console.path          static          [0;38;5;245m-            [0m[m
+[0m[0;4msystemd-ask-password-wall.path            [0m[0m[0;4m [0m[0m[0;4mstatic         [0m[0m[0;4m [0m[0;38;5;245m[0;4m-            [0m[m
+session-4.scope                            transient       [0;38;5;245m-            [0m[m
+[0m[0;4msession-5.scope                           [0m[0m[0;4m [0m[0m[0;4mtransient      [0m[0m[0;4m [0m[0;38;5;245m[0;4m-            [0m[m
+auditd.service                             [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+autovt@.service                            [0;1;32malias          [0m[0;1;32m [0m[0;38;5;245m-            [0m[m
+choose_repo.service                        generated       [0;38;5;245m-            [0m[m
+chrony-wait.service                        [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+chronyd.service                            [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+cloud-config.service                       [0;1;32menabled        [0m[0;1;32m [0m[0;1;31mdisabled     [0m[m
+cloud-final.service                        [0;1;32menabled        [0m[0;1;32m [0m[0;1;31mdisabled     [0m[m
+cloud-init-local.service                   [0;1;32menabled        [0m[0;1;32m [0m[0;1;31mdisabled     [0m[m
+cloud-init.service                         [0;1;32menabled        [0m[0;1;32m [0m[0;1;31mdisabled     [0m[m
+console-getty.service                      [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+container-getty@.service                   static          [0;38;5;245m-            [0m[m
+cpupower.service                           [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+crond.service                              [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+dbus-broker.service                        [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+dbus-org.freedesktop.hostname1.service     [0;1;32malias          [0m[0;1;32m [0m[0;38;5;245m-            [0m[m
+dbus-org.freedesktop.locale1.service       [0;1;32malias          [0m[0;1;32m [0m[0;38;5;245m-            [0m[m
+dbus-org.freedesktop.login1.service        [0;1;32malias          [0m[0;1;32m [0m[0;38;5;245m-            [0m[m
+dbus-org.freedesktop.nm-dispatcher.service [0;1;32malias          [0m[0;1;32m [0m[0;38;5;245m-            [0m[m
+dbus-org.freedesktop.timedate1.service     [0;1;32malias          [0m[0;1;32m [0m[0;38;5;245m-            [0m[m
+dbus.service                               [0;1;32malias          [0m[0;1;32m [0m[0;38;5;245m-            [0m[m
+debug-shell.service                        [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+dnf-makecache.service                      static          [0;38;5;245m-            [0m[m
+dracut-cmdline.service                     static          [0;38;5;245m-            [0m[m
+dracut-initqueue.service                   static          [0;38;5;245m-            [0m[m
+dracut-mount.service                       static          [0;38;5;245m-            [0m[m
+dracut-pre-mount.service                   static          [0;38;5;245m-            [0m[m
+dracut-pre-pivot.service                   static          [0;38;5;245m-            [0m[m
+dracut-pre-trigger.service                 static          [0;38;5;245m-            [0m[m
+dracut-pre-udev.service                    static          [0;38;5;245m-            [0m[m
+dracut-shutdown-onfailure.service          static          [0;38;5;245m-            [0m[m
+dracut-shutdown.service                    static          [0;38;5;245m-            [0m[m
+emergency.service                          static          [0;38;5;245m-            [0m[m
+fstrim.service                             static          [0;38;5;245m-            [0m[m
+getty@.service                             [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+grub-boot-indeterminate.service            static          [0;38;5;245m-            [0m[m
+grub2-systemd-integration.service          static          [0;38;5;245m-            [0m[m
+import-state.service                       [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[K[7mlines 1-57[27m[K[Kinitrd-cleanup.service                     static          [0;38;5;245m-            [0m[m
+[7mlines 2-58[27m[K[K [KESCESC[KOO[KBB[Kinitrd-parse-etc.service                   static          [0;38;5;245m-            [0m[m
+[7mlines 3-59[27m[K[K [KESCESC[KOO[KBB[Kinitrd-switch-root.service                 static          [0;38;5;245m-            [0m[m
+[7mlines 4-60[27m[K[K [KESCESC[KOO[KBB[Kinitrd-udevadm-cleanup-db.service          static          [0;38;5;245m-            [0m[m
+[7mlines 5-61[27m[K[K [KESCESC[KOO[KBB[Kinsights-client-boot.service               [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 6-62[27m[K[K [KESCESC[KOO[KBB[Kinsights-client-results.service            static          [0;38;5;245m-            [0m[m
+[7mlines 7-63[27m[K[K [KESCESC[KOO[KBB[Kinsights-client.service                    static          [0;38;5;245m-            [0m[m
+[7mlines 8-64[27m[K[K [KESCESC[KOO[KBB[Kirqbalance.service                         [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 9-65[27m[K[K [KESCESC[KOO[KBB[Kkdump.service                              [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 10-66[27m[K[K [KESCESC[KOO[KBB[Kkmod-static-nodes.service                  static          [0;38;5;245m-            [0m[m
+[7mlines 11-67[27m[K[K [KESCESC[KOO[KBB[Kkvm_stat.service                           [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 12-68[27m[K[K [KESCESC[KOO[KBB[Kldconfig.service                           static          [0;38;5;245m-            [0m[m
+[7mlines 13-69[27m[K[K [KESCESC[KOO[KBB[Kloadmodules.service                        [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 14-70[27m[K[K [KESCESC[KOO[KBB[Klogrotate.service                          static          [0;38;5;245m-            [0m[m
+[7mlines 15-71[27m[K[K [KESCESC[KOO[KBB[Kman-db-cache-update.service                static          [0;38;5;245m-            [0m[m
+[7mlines 16-72[27m[K[K [KESCESC[KOO[KBB[Kman-db-restart-cache-update.service        [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 17-73[27m[K[K [KESCESC[KOO[KBB[Kmicrocode.service                          [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 18-74[27m[K[K [KESCESC[KOO[KBB[Kmodprobe@.service                          static          [0;38;5;245m-            [0m[m
+[7mlines 19-75[27m[K[K [KESCESC[KOO[KBB[KNetworkManager-dispatcher.service          [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 20-76[27m[K[K [KESCESC[KOO[KBB[KNetworkManager-wait-online.service         [0;1;32menabled        [0m[0;1;32m [0m[0;1;31mdisabled     [0m[m
+[7mlines 21-77[27m[K[K [KESCESC[KOO[KBB[KNetworkManager.service                     [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 22-78[27m[K[K [KESCESC[KOO[KBB[Knis-domainname.service                     [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 23-79[27m[K[K [KESCESC[KOO[KBB[Knm-cloud-setup.service                     [0;1;32menabled        [0m[0;1;32m [0m[0;1;31mdisabled     [0m[m
+[7mlines 24-80[27m[K[K [KESCESC[KOO[KBB[Knm-priv-helper.service                     static          [0;38;5;245m-            [0m[m
+[7mlines 25-81[27m[K[K [KESCESC[KOO[KBB[Koddjobd.service                            [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 26-82[27m[K[K [KESCESC[KOO[KBB[Kpam_namespace.service                      static          [0;38;5;245m-            [0m[m
+[7mlines 27-83[27m[K[K [KESCESC[KOO[KBB[Kpolkit.service                             static          [0;38;5;245m-            [0m[m
+[7mlines 28-84[27m[K[K [KESCESC[KOO[KBB[Kquotaon.service                            static          [0;38;5;245m-            [0m[m
+[7mlines 29-85[27m[K[K [KESCESC[KOO[KBB[Krc-local.service                           static          [0;38;5;245m-            [0m[m
+[7mlines 30-86[27m[K[K [KESCESC[KOO[KBB[Krdisc.service                              [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 31-87[27m[K[K [KESCESC[KOO[KBB[Krescue.service                             static          [0;38;5;245m-            [0m[m
+[7mlines 32-88[27m[K[K [KESCESC[KOO[KBB[Krh-cloud-firstboot.service                 generated       [0;38;5;245m-            [0m[m
+[7mlines 33-89[27m[K[K [KESCESC[KOO[KBB[Krhsm-facts.service                         [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 34-90[27m[K[K [KESCESC[KOO[KBB[Krhsm.service                               [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 35-91[27m[K[K [KESCESC[KOO[KBB[Krhsmcertd.service                          [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 36-92[27m[K[K [KESCESC[KOO[KBB[Krpmdb-rebuild.service                      [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 37-93[27m[K[K [KESCESC[KOO[KBB[Krsyslog.service                            [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 38-94[27m[K[K [KESCESC[KOO[KBB[Kselinux-autorelabel-mark.service           [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 39-95[27m[K[K [KESCESC[KOO[KBB[Kselinux-autorelabel.service                static          [0;38;5;245m-            [0m[m
+[7mlines 40-96[27m[K[K [KESCESC[KOO[KBB[Kserial-getty@.service                      indirect        [0;1;31mdisabled     [0m[m
+[7mlines 41-97[27m[K[K [KESCESC[KOO[KBB[Ksshd-keygen@.service                       [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 42-98[27m[K[K [KESCESC[KOO[KBB[Ksshd.service                               [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 43-99[27m[K[K [KESCESC[KOO[KBB[Ksshd@.service                              static          [0;38;5;245m-            [0m[m
+[7mlines 44-100[27m[K[K [KESCESC[KOO[KBB[Ksssd-autofs.service                        indirect        [0;1;31mdisabled     [0m[m
+[7mlines 45-101[27m[K[K [KESCESC[KOO[KBB[Ksssd-kcm.service                           indirect        [0;1;31mdisabled     [0m[m
+[7mlines 46-102[27m[K[K [KESCESC[KOO[KBB[Ksssd-nss.service                           indirect        [0;1;31mdisabled     [0m[m
+[7mlines 47-103[27m[K[K [KESCESC[KOO[KBB[Ksssd-pac.service                           indirect        [0;1;31mdisabled     [0m[m
+[7mlines 48-104[27m[K[K [KESCESC[KOO[KBB[Ksssd-pam.service                           indirect        [0;1;31mdisabled     [0m[m
+[7mlines 49-105[27m[K[K [KESCESC[KOO[KBB[Ksssd-ssh.service                           indirect        [0;1;31mdisabled     [0m[m
+[7mlines 50-106[27m[K[K [KESCESC[KOO[KBB[Ksssd-sudo.service                          indirect        [0;1;31mdisabled     [0m[m
+[7mlines 51-107[27m[K[K [KESCESC[KOO[KBB[Ksssd.service                               [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 52-108[27m[K[K [KESCESC[KOO[KBB[Ksystem-update-cleanup.service              static          [0;38;5;245m-            [0m[m
+[7mlines 53-109[27m[K[K [KESCESC[KOO[KBB[Ksystemd-ask-password-console.service       static          [0;38;5;245m-            [0m[m
+[7mlines 54-110[27m[K[K [KESCESC[KOO[KBB[Ksystemd-ask-password-wall.service          static          [0;38;5;245m-            [0m[m
+[7mlines 55-111[27m[K[K [KESCESC[KOO[KBB[Ksystemd-backlight@.service                 static          [0;38;5;245m-            [0m[m
+[7mlines 56-112[27m[K[K [KESCESC[KOO[KBB[Ksystemd-binfmt.service                     static          [0;38;5;245m-            [0m[m
+[7mlines 57-113[27m[K[K [KESCESC[KOO[KBB[Ksystemd-boot-check-no-failures.service     [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;31mdisabled     [0m[m
+[7mlines 58-114[27m[K[K [KESCESC[KOO[KBB[Ksystemd-coredump@.service                  static          [0;38;5;245m-            [0m[m
+[7mlines 59-115[27m[K[K [KESCESC[KOO[KBB[Ksystemd-exit.service                       static          [0;38;5;245m-            [0m[m
+[7mlines 60-116[27m[K[K [KESCESC[KOO[KBB[Ksystemd-firstboot.service                  static          [0;38;5;245m-            [0m[m
+[7mlines 61-117[27m[K[K [KESCESC[KOO[KBB[Ksystemd-fsck-root.service                  static          [0;38;5;245m-            [0m[m
+[7mlines 62-118[27m[K[K [KESCESC[KOO[KBB[Ksystemd-fsck@.service                      static          [0;38;5;245m-            [0m[m
+[7mlines 63-119[27m[K[K [KESCESC[KOO[KBB[Ksystemd-halt.service                       static          [0;38;5;245m-            [0m[m
+[7mlines 64-120[27m[K[K [KESCESC[KOO[KBB[Ksystemd-hibernate-resume@.service          static          [0;38;5;245m-            [0m[m
+[7mlines 65-121[27m[K[K [KESCESC[KOO[KBB[Ksystemd-hibernate.service                  static          [0;38;5;245m-            [0m[m
+[7mlines 66-122[27m[K[K [KESCESC[KOO[KBB[Ksystemd-hostnamed.service                  static          [0;38;5;245m-            [0m[m
+[7mlines 67-123[27m[K[K [KESCESC[KOO[KBB[Ksystemd-hwdb-update.service                static          [0;38;5;245m-            [0m[m
+[7mlines 68-124[27m[K[K [KESCESC[KOO[KBB[Ksystemd-hybrid-sleep.service               static          [0;38;5;245m-            [0m[m
+[7mlines 69-125[27m[K[K [KESCESC[KOO[KBB[Ksystemd-initctl.service                    static          [0;38;5;245m-            [0m[m
+[7mlines 70-126[27m[K[K [KESCESC[KOO[KBB[Ksystemd-journal-catalog-update.service     static          [0;38;5;245m-            [0m[m
+[7mlines 71-127[27m[K[K [KESCESC[KOO[KBB[Ksystemd-journal-flush.service              static          [0;38;5;245m-            [0m[m
+[7mlines 72-128[27m[K[K [KESCESC[KOO[KBB[Ksystemd-journald.service                   static          [0;38;5;245m-            [0m[m
+[7mlines 73-129[27m[K[K [KESCESC[KOO[KBB[Ksystemd-journald@.service                  static          [0;38;5;245m-            [0m[m
+[7mlines 74-130[27m[K[K [KESCESC[KOO[KBB[Ksystemd-kexec.service                      static          [0;38;5;245m-            [0m[m
+[7mlines 75-131[27m[K[K [KESCESC[KOO[KBB[Ksystemd-localed.service                    static          [0;38;5;245m-            [0m[m
+[7mlines 76-132[27m[K[K [KESCESC[KOO[KBB[Ksystemd-logind.service                     static          [0;38;5;245m-            [0m[m
+[7mlines 77-133[27m[K[K [KESCESC[KOO[KBB[Ksystemd-machine-id-commit.service          static          [0;38;5;245m-            [0m[m
+[7mlines 78-134[27m[K[K [KESCESC[KOO[KBB[Ksystemd-modules-load.service               static          [0;38;5;245m-            [0m[m
+[7mlines 79-135[27m[K[K [KESCESC[KOO[KBB[Ksystemd-network-generator.service          [0;1;32menabled        [0m[0;1;32m [0m[0;1;32menabled      [0m[m
+[7mlines 80-136[27m[K[K [KESCESC[KOO[KBB[Ksystemd-poweroff.service                   static          [0;38;5;245m-            [0m[m
+[7mlines 81-137[27m[K[K [KESCESC[KOO[KBB[Ksystemd-pstore.service                     [0;1;31mdisabled       [0m[0;1;31m [0m[0;1;32menabled      [0m[m
+[7mlines 82-138[27m[K[K [KESCESC[KOO[KBB[Ksystemd-quotacheck.service                 static          [0;38;5;245m-            [0m[m
+[7mlines 83-139[27m[K[K [KESCESC[KOO[KBB[Ksystemd-random-seed.service                static          [0;38;5;245m-            [0m[m
+[7mlines 84-140[27m[K[K [KESCESC[KOO[KBB[Ksystemd-reboot.service                     static          [0;38;5;245m-            [0m[m
+[7mlines 85-141[27m[K[K [KESCESC[KOO[KBB[Ksystemd-remount-fs.service                 enabled-runtime [0;1;31mdisabled     [0m[m
+[7mlines 86-142[27m[K[K [KESCESC[KOO[KBB[Ksystemd-repart.service                     static          [0;38;5;245m-            [0m[m
+[7mlines 87-143[27m[K[K [KESCESC[KOO[KBB[Ksystemd-rfkill.service                     static          [0;38;5;245m-            [0m[m
+[7mlines 88-144[27m[K[K [KESCESC[KOO[KBB[Ksystemd-suspend-then-hibernate.service     static          [0;38;5;245m-            [0m[m
+[7mlines 89-145[27m[K[K [KESCESC[KOO[KBB[Ksystemd-suspend.service                    static          [0;38;5;245m-            [0m[m
+[7mlines 90-146[27m[K[K [K::[Kqq[K[?1l>]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7myum install httpd  [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyum install httpd  
+[?2004lNot root, Subscription Management repositories not updated
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+Error: This command has to be run with superuser privileges (under the root user on most systems).
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ sudo [7myum install httpd  [27myum install httpd  
+[?2004lUpdating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+Last metadata expiration check: 2:24:08 ago on Sat 11 Mar 2023 02:45:11 PM UTC.
+Dependencies resolved.
+====================================================================================
+ Package             Arch    Version              Repository                   Size
+====================================================================================
+Installing:
+ [1m[32mhttpd              (B[m x86_64  2.4.53-7.el9_1.1     rhel-9-appstream-rhui-rpms   53 k
+Installing dependencies:
+ [1m[32mapr                (B[m x86_64  1.7.0-11.el9         rhel-9-appstream-rhui-rpms  127 k
+ [1m[32mapr-util           (B[m x86_64  1.6.1-20.el9         rhel-9-appstream-rhui-rpms   98 k
+ [1m[32mapr-util-bdb       (B[m x86_64  1.6.1-20.el9         rhel-9-appstream-rhui-rpms   15 k
+ [1m[32mhttpd-core         (B[m x86_64  2.4.53-7.el9_1.1     rhel-9-appstream-rhui-rpms  1.5 M
+ [1m[32mhttpd-filesystem   (B[m noarch  2.4.53-7.el9_1.1     rhel-9-appstream-rhui-rpms   17 k
+ [1m[32mhttpd-tools        (B[m x86_64  2.4.53-7.el9_1.1     rhel-9-appstream-rhui-rpms   87 k
+ [1m[32mmailcap            (B[m noarch  2.1.49-5.el9         rhel-9-baseos-rhui-rpms      35 k
+ [1m[32mredhat-logos-httpd (B[m noarch  90.4-1.el9           rhel-9-appstream-rhui-rpms   18 k
+Installing weak dependencies:
+ [1m[32mapr-util-openssl   (B[m x86_64  1.6.1-20.el9         rhel-9-appstream-rhui-rpms   17 k
+ [1m[32mmod_http2          (B[m x86_64  1.15.19-2.el9        rhel-9-appstream-rhui-rpms  153 k
+ [1m[32mmod_lua            (B[m x86_64  2.4.53-7.el9_1.1     rhel-9-appstream-rhui-rpms   63 k
+
+Transaction Summary
+====================================================================================
+Install  12 Packages
+
+Total download size: 2.2 M
+Installed size: 6.0 M
+Is this ok [y/N]: y
+Downloading Packages:
+                           [===                   ] ---  B/s |   0  B     --:-- ETA(1/12): apr-util-opens  0% [                      ] ---  B/s |   0  B     --:-- ETA(1/12): apr-util-openssl-1.6.1-20.el9.x86_64.rpm    249 kB/s |  17 kB     00:00    
+(2-3/12): apr-util-1.6  5% [=                     ] 1.6 MB/s | 113 kB     00:01 ETA(2/12): apr-util-1.6.1-20.el9.x86_64.rpm            1.3 MB/s |  98 kB     00:00    
+(3-4/12): apr-1.7.0-11  8% [=-                    ] 1.6 MB/s | 179 kB     00:01 ETA(3/12): apr-1.7.0-11.el9.x86_64.rpm                 1.6 MB/s | 127 kB     00:00    
+(4-5/12): redhat-logos 10% [==                    ] 1.6 MB/s | 242 kB     00:01 ETA(4/12): redhat-logos-httpd-90.4-1.el9.noarch.rpm    1.7 MB/s |  18 kB     00:00    
+(5-6/12): apr-util-bdb 11% [==-                   ] 1.6 MB/s | 260 kB     00:01 ETA(5/12): apr-util-bdb-1.6.1-20.el9.x86_64.rpm        1.5 MB/s |  15 kB     00:00    
+(6-7/12): mod_http2-1. 12% [==-                   ] 1.6 MB/s | 275 kB     00:01 ETA(6/12): httpd-filesystem-2.4.53-7.el9_1.1.noarch.rp 1.2 MB/s |  17 kB     00:00    
+(7-8/12): mod_http2-1. 19% [====                  ] 1.6 MB/s | 420 kB     00:01 ETA(7/12): mod_http2-1.15.19-2.el9.x86_64.rpm          7.3 MB/s | 153 kB     00:00    
+(8-9/12): httpd-2.4.53 20% [====                  ] 1.6 MB/s | 445 kB     00:01 ETA(8/12): httpd-2.4.53-7.el9_1.1.x86_64.rpm           2.8 MB/s |  53 kB     00:00    
+(9-10/12): httpd-core- 22% [====-                 ] 1.6 MB/s | 499 kB     00:01 ETA(9/12): mod_lua-2.4.53-7.el9_1.1.x86_64.rpm         5.5 MB/s |  63 kB     00:00    
+(10-11/12): httpd-core 30% [======-               ] 1.7 MB/s | 673 kB     00:00 ETA(10/12): httpd-tools-2.4.53-7.el9_1.1.x86_64.rpm    6.5 MB/s |  87 kB     00:00    
+(11-12/12): httpd-core 39% [========-             ] 1.7 MB/s | 873 kB     00:00 ETA(11/12): mailcap-2.1.49-5.el9.noarch.rpm            3.1 MB/s |  35 kB     00:00    
+(12/12): httpd-core-2. 50% [===========           ] 1.8 MB/s | 1.1 MB     00:00 ETA(12/12): httpd-core-2.4.53-7.el9_1.1.x86_64.rpm      25 MB/s | 1.5 MB     00:00    
+------------------------------------------------------------------------------------
+Total                                               9.8 MB/s | 2.2 MB     00:00     
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :  [====                                                   ] 1/1  Preparing        :  [========                                               ] 1/1  Preparing        :  [=============                                          ] 1/1  Preparing        :  [==================                                     ] 1/1  Preparing        :  [======================                                 ] 1/1  Preparing        :  [===========================                            ] 1/1  Preparing        :  [===============================                        ] 1/1  Preparing        :  [====================================                   ] 1/1  Preparing        :  [=========================================              ] 1/1  Preparing        :  [=============================================          ] 1/1  Preparing        :  [==================================================     ] 1/1  Preparing        :                                                            1/1 
+  Installing       : apr-1.7.0-11.el9.x86_64 [                              ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [===                           ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [======                        ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [=========                     ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [=============                 ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [================              ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [===================           ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [=======================       ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [==========================    ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [============================  ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64 [============================= ]  1/12  Installing       : apr-1.7.0-11.el9.x86_64                                   1/12 
+  Installing       : apr-util-bdb-1.6.1-20.el9. [                           ]  2/12  Installing       : apr-util-bdb-1.6.1-20.el9. [========================== ]  2/12  Installing       : apr-util-bdb-1.6.1-20.el9.x86_64                          2/12 
+  Installing       : apr-util-1.6.1-20.el9.x86_ [                           ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_ [====                       ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_ [========                   ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_ [============               ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_ [================           ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_ [====================       ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_ [=======================    ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_ [========================   ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_ [========================== ]  3/12  Installing       : apr-util-1.6.1-20.el9.x86_64                              3/12 
+  Installing       : apr-util-openssl-1.6.1-20. [                           ]  4/12  Installing       : apr-util-openssl-1.6.1-20. [========================== ]  4/12  Installing       : apr-util-openssl-1.6.1-20.el9.x86_64                      4/12 
+  Installing       : httpd-tools-2.4.53-7.el9_1 [                           ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [====                       ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [=======                    ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [===========                ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [=============              ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [=================          ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [===================        ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [=====================      ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [========================   ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [=========================  ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1 [========================== ]  5/12  Installing       : httpd-tools-2.4.53-7.el9_1.1.x86_64                       5/12 
+  Installing       : mailcap-2.1.49-5.el9.noarc [                           ]  6/12  Installing       : mailcap-2.1.49-5.el9.noarc [==========                 ]  6/12  Installing       : mailcap-2.1.49-5.el9.noarc [=====================      ]  6/12  Installing       : mailcap-2.1.49-5.el9.noarc [======================     ]  6/12  Installing       : mailcap-2.1.49-5.el9.noarc [=========================  ]  6/12  Installing       : mailcap-2.1.49-5.el9.noarc [========================== ]  6/12  Installing       : mailcap-2.1.49-5.el9.noarch                               6/12 
+  Running scriptlet: httpd-filesystem-2.4.53-7.el9_1.1.noarch                  7/12 
+useradd warning: apache's uid 48 outside of the SYS_UID_MIN 201 and SYS_UID_MAX 999 range.
+
+  Installing       : httpd-filesystem-2.4.53-7. [                           ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [=                          ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [===                        ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [===========                ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [=============              ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [===============            ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [=================          ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [===================        ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [=====================      ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [=======================    ]  7/12  Installing       : httpd-filesystem-2.4.53-7. [=========================  ]  7/12  Installing       : httpd-filesystem-2.4.53-7.el9_1.1.noarch                  7/12 
+  Installing       : httpd-core-2.4.53-7.el9_1. [                           ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=                          ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [==                         ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [===                        ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [====                       ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=====                      ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [======                     ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=======                    ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [========                   ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=========                  ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [==========                 ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [===========                ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [============               ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=============              ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [==============             ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [===============            ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [================           ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=================          ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [==================         ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [===================        ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [====================       ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=====================      ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [======================     ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=======================    ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [========================   ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [=========================  ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1. [========================== ]  8/12  Installing       : httpd-core-2.4.53-7.el9_1.1.x86_64                        8/12 
+  Installing       : mod_http2-1.15.19-2.el9.x8 [                           ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [==                         ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [====                       ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [======                     ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [========                   ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [===========                ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [=============              ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [===============            ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [=================          ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [===================        ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [=====================      ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [=======================    ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [=========================  ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x8 [========================== ]  9/12  Installing       : mod_http2-1.15.19-2.el9.x86_64                            9/12 
+  Installing       : mod_lua-2.4.53-7.el9_1.1.x [                           ] 10/12  Installing       : mod_lua-2.4.53-7.el9_1.1.x [=====                      ] 10/12  Installing       : mod_lua-2.4.53-7.el9_1.1.x [============               ] 10/12  Installing       : mod_lua-2.4.53-7.el9_1.1.x [==================         ] 10/12  Installing       : mod_lua-2.4.53-7.el9_1.1.x [========================   ] 10/12  Installing       : mod_lua-2.4.53-7.el9_1.1.x [========================== ] 10/12  Installing       : mod_lua-2.4.53-7.el9_1.1.x86_64                          10/12 
+  Installing       : redhat-logos-httpd-90.4-1. [                           ] 11/12  Installing       : redhat-logos-httpd-90.4-1. [===                        ] 11/12  Installing       : redhat-logos-httpd-90.4-1. [========                   ] 11/12  Installing       : redhat-logos-httpd-90.4-1. [=============              ] 11/12  Installing       : redhat-logos-httpd-90.4-1. [========================== ] 11/12  Installing       : redhat-logos-httpd-90.4-1.el9.noarch                     11/12 
+  Installing       : httpd-2.4.53-7.el9_1.1.x86 [                           ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [=                          ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [===========                ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [==================         ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [===================        ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [====================       ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [=====================      ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [======================     ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [========================   ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [=========================  ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86 [========================== ] 12/12  Installing       : httpd-2.4.53-7.el9_1.1.x86_64                            12/12 
+  Running scriptlet: httpd-2.4.53-7.el9_1.1.x86_64                            12/12 
+  Verifying        : apr-util-openssl-1.6.1-20.el9.x86_64                      1/12 
+  Verifying        : apr-util-1.6.1-20.el9.x86_64                              2/12 
+  Verifying        : apr-1.7.0-11.el9.x86_64                                   3/12 
+  Verifying        : redhat-logos-httpd-90.4-1.el9.noarch                      4/12 
+  Verifying        : apr-util-bdb-1.6.1-20.el9.x86_64                          5/12 
+  Verifying        : mod_http2-1.15.19-2.el9.x86_64                            6/12 
+  Verifying        : httpd-filesystem-2.4.53-7.el9_1.1.noarch                  7/12 
+  Verifying        : httpd-2.4.53-7.el9_1.1.x86_64                             8/12 
+  Verifying        : httpd-core-2.4.53-7.el9_1.1.x86_64                        9/12 
+  Verifying        : mod_lua-2.4.53-7.el9_1.1.x86_64                          10/12 
+  Verifying        : httpd-tools-2.4.53-7.el9_1.1.x86_64                      11/12 
+  Verifying        : mailcap-2.1.49-5.el9.noarch                              12/12 
+Installed products updated.
+
+Installed:
+  apr-1.7.0-11.el9.x86_64                    apr-util-1.6.1-20.el9.x86_64          
+  apr-util-bdb-1.6.1-20.el9.x86_64           apr-util-openssl-1.6.1-20.el9.x86_64  
+  httpd-2.4.53-7.el9_1.1.x86_64              httpd-core-2.4.53-7.el9_1.1.x86_64    
+  httpd-filesystem-2.4.53-7.el9_1.1.noarch   httpd-tools-2.4.53-7.el9_1.1.x86_64   
+  mailcap-2.1.49-5.el9.noarch                mod_http2-1.15.19-2.el9.x86_64        
+  mod_lua-2.4.53-7.el9_1.1.x86_64            redhat-logos-httpd-90.4-1.el9.noarch  
+
+Complete!
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ sudo yum install httpd  [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5@sudo [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[7msystemctl status httpd[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csystemctl status httpd
+[?2004l[?1h=○ httpd.service - The Apache HTTP Server[m
+     Loaded: loaded (]8;;file://Fresh/usr/lib/systemd/system/httpd.service/usr/lib/systemd/system/httpd.service]8;;; disabled; vendor preset[m[7m>[27m
+     Active: inactive (dead)[m
+       Docs: ]8;;man:httpd.service(8)man:httpd.service(8)]8;;[m
+[7mlines 1-4/4 (END)[27m[K[K [K::[Kqq[K[?1l>]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7msystemctl status httpd[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csystemctl status httpd[1P httpd[1P httpd[1P httpd[1P httpd[1P httpd[1P httpda httpd[1P httpde httpdn httpda httpdb httpdl httpde httpd
+[?2004l[1;31m==== AUTHENTICATING FOR org.freedesktop.systemd1.manage-unit-files ====
+[0mAuthentication is required to manage system service or unit files.
+Authenticating as: root
+Password: Failed to enable unit: Connection timed out
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ Chiopolkit-agent-helper-1: pam_authenticate failed: Authentication failure
+^C[?2004l[?2004h[?2004l
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ sudo [7msystemctl status httpd[27msystemctl status httpd[1P httpd[1P httpd[1P httpd[1P httpd[1P httpd[1P httpde httpdn httpda httpdb httpdl httpde httpd
+[?2004lCreated symlink /etc/systemd/system/multi-user.target.wants/httpd.service → /usr/lib/systemd/system/httpd.service.
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ /hr[Kttpd
+[?2004lbash: /httpd: No such file or directory
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7msystemctl status httpd[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csystemctl status httpd
+[?2004l[?1h=○ httpd.service - The Apache HTTP Server[m
+     Loaded: loaded (]8;;file://Fresh/usr/lib/systemd/system/httpd.service/usr/lib/systemd/system/httpd.service]8;;; enabled; vendor preset:[m[7m>[27m
+     Active: inactive (dead)[m
+       Docs: ]8;;man:httpd.service(8)man:httpd.service(8)]8;;[m
+[7mlines 1-4/4 (END)[27m[K[K [K::[Kqq[K[?1l>]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ kk[Kkillki[K[K[K[K[K[K[Kkill -9 -9[K[K[K 
+[?2004lkill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m kill -9 processID [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C kill -9 processID 
+[?2004lbash: kill: processID: arguments must be process or job IDs
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ r[K
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7mmonitor.sh[27mmonitor.shvmonitor.shimonitor.sh monitor.sh
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;58r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[58;1H"monitor.sh" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]11;?[2;1H[1m[34m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [24;1H~                                                                                   [25;1H~                                                                                   [26;1H~                                                                                   [27;1H~                                                                                   [28;1H~                                                                                   [29;1H~                                                                                   [30;1H~                                                                                   [31;1H~                                                                                   [32;1H~                                                                                   [33;1H~                                                                                   [34;1H~                                                                                   [35;1H~                                                                                   [36;1H~                                                                                   [37;1H~                                                                                   [38;1H~                                                                                   [39;1H~                                                                                   [40;1H~                                                                                   [41;1H~                                                                                   [42;1H~                                                                                   [43;1H~                                                                                   [44;1H~                                                                                   [45;1H~                                                                                   [46;1H~                                                                                   [47;1H~                                                                                   [48;1H~                                                                                   [49;1H~                                                                                   [50;1H~                                                                                   [51;1H~                                                                                   [52;1H~                                                                                   [53;1H~                                                                                   [54;1H~                                                                                   [55;1H~                                                                                   [56;1H~                                                                                   [57;1H~                                                                                   [1;1H[?25h[?25l[m[58;1H[K[58;1H:[?25hwq![?25l[?2004l[>4;m"monitor.sh" [New] 0L, 0B written
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7mapp.log [27mapp.log [K[K[K[K[K[K[K[Kfile
+[?2004lUsage: file [-bcCdEhikLlNnprsSvzZ0] [--apple] [--extension] [--mime-encoding]
+            [--mime-type] [-e <testname>] [-F <separator>]  [-f <namefile>]
+            [-m <magicfiles>] [-P <parameter=value>] [--exclude-quiet]
+            <file> ...
+       file -C [-m <magicfiles>]
+       file [--help]
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ clear
+[?2004l[H[2J[3J]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ls
+[?2004lapp.js  [0m[01;34mclass7a[0m  [01;34mclass9a[0m       deploy.sh     fire        [01;34mnude_modules[0m
+[01;34mclass[0m   [01;34mclass8a[0m  deploy-bk.sh  [01;36mdeploy-sl.sh[0m  monitor.sh  typescript
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ ls /
+[?2004l[0m[01;34mafs[0m  [01;34mboot[0m  [01;34mefi[0m  [01;34mhome[0m  [01;36mlib64[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m
+[01;36mbin[0m  [01;34mdev[0m   [01;34metc[0m  [01;36mlib[0m   [01;34mmedia[0m  [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ v[Ktouch [7mapp.log [27mapp.log 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ 
+[?2004l]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m zip app.zip app.log   [27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C zip app.zip app.log   
+[?2004lbash: zip: command not found
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ sudo [7m zip app.zip app.log   [27m zip app.zip app.log   [1P
+[?2004lsudo: zip: command not found
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ sudo yum install zip -y[K[K
+[?2004lUpdating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+Last metadata expiration check: 2:47:24 ago on Sat 11 Mar 2023 02:45:11 PM UTC.
+Dependencies resolved.
+====================================================================================
+ Package      Architecture  Version            Repository                      Size
+====================================================================================
+Installing:
+ [1m[32mzip         (B[m x86_64        3.0-33.el9         rhel-9-baseos-rhui-rpms        242 k
+Installing dependencies:
+ [1m[32munzip       (B[m x86_64        6.0-56.el9         rhel-9-baseos-rhui-rpms        186 k
+
+Transaction Summary
+====================================================================================
+Install  2 Packages
+
+Total download size: 429 k
+Installed size: 1.0 M
+Is this ok [y/N]: y
+Downloading Packages:
+                           [===                   ] ---  B/s |   0  B     --:-- ETA(1/2): zip-3.0-33.el9.  0% [                      ] ---  B/s |   0  B     --:-- ETA(1/2): unzip-6.0-56.el9.x86_64.rpm                  3.1 MB/s | 186 kB     00:00    
+(2/2): zip-3.0-33.el9. 88% [===================   ] 6.3 MB/s | 378 kB     00:00 ETA(2/2): zip-3.0-33.el9.x86_64.rpm                    3.8 MB/s | 242 kB     00:00    
+------------------------------------------------------------------------------------
+Total                                               4.3 MB/s | 429 kB     00:00     
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :  [===========================                            ] 1/1  Preparing        :                                                            1/1 
+  Installing       : unzip-6.0-56.el9.x86_64 [                                ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [==                              ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [=====                           ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [=======                         ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [=========                       ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [==========                      ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [===========                     ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [============                    ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [=============                   ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [==============                  ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [===============                 ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [================                ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [==================              ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [=====================           ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [=======================         ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [==========================      ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [============================    ] 1/2  Installing       : unzip-6.0-56.el9.x86_64 [=============================== ] 1/2  Installing       : unzip-6.0-56.el9.x86_64                                    1/2 
+  Installing       : zip-3.0-33.el9.x86_64 [                                  ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [=                                 ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [===                               ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [=====                             ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [======                            ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [========                          ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [=========                         ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [==========                        ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [============                      ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [==============                    ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [===============                   ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [=================                 ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [==================                ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [===================               ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [=====================             ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [=======================           ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [========================          ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [==========================        ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [============================      ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [=============================     ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [==============================    ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [===============================   ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [================================  ] 2/2  Installing       : zip-3.0-33.el9.x86_64 [================================= ] 2/2  Installing       : zip-3.0-33.el9.x86_64                                      2/2 
+  Running scriptlet: zip-3.0-33.el9.x86_64                                      2/2 
+  Verifying        : zip-3.0-33.el9.x86_64                                      1/2 
+  Verifying        : unzip-6.0-56.el9.x86_64                                    2/2 
+Installed products updated.
+
+Installed:
+  unzip-6.0-56.el9.x86_64                   zip-3.0-33.el9.x86_64                  
+
+Complete!
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7mzip app.zip app.log[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Czip app.zip app.log
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l  adding: app.log (stored 0%)
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ [7m  unzip app.zip[27m  unzip app.zip[C[C[1P[1P
+[?2004lArchive:  app.zip
+replace app.log? [y]es, [n]o, [A]ll, [N]one, [r]ename: y
+ extracting: app.log                 
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ visudo
+[?2004lvisudo: /etc/sudoers: Permission denied
+]0;Fiyin@Fresh:~[?2004h[Fiyin@Fresh ~]$ sudo visudo
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;58r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[58;1H"/etc/sudoers.tmp" 121L, 4374B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]11;?[1;1H## Sudoers allows particular users to run various commands as
+## the root user, without needing the root password.[2;53H[K[3;1H##[3;3H[K[4;1H## Examples are provided at the bottom of the file for collections
+## of related commands, which can then be delegated out to particular
+## users or groups.
+##
+## This file must be edited with the 'visudo' command.
+
+## Host Aliases
+## Groups of machines. You may prefer to use hostnames (perhaps using
+## wildcards for entire domains) or IP addresses instead.
+# Host_Alias     FILESERVERS = fs1, fs2
+# Host_Alias     MAILSERVERS = smtp, smtp2
+
+## User Aliases
+## These aren't often necessary, as you can use regular groups
+## (ie, from files, LDAP, NIS, etc) in this file - just use %groupname
+## rather than USERALIAS
+# User_Alias ADMINS = jsmith, mikem
+
+
+## Command Aliases
+## These are groups of related commands...
+
+## Networking
+# Cmnd_Alias NETWORKING = /sbin/route, /sbin/ifconfig, /bin/ping, /sbin/dhclient, /uu[28;1Hsr/bin/net, /sbin/iptables, /usr/bin/rfcomm, /usr/bin/wvdial, /sbin/iwconfig, /sbin//[29;1Hmii-tool
+
+## Installation and management of software
+# Cmnd_Alias SOFTWARE = /bin/rpm, /usr/bin/up2date, /usr/bin/yum
+
+## Services
+# Cmnd_Alias SERVICES = /sbin/service, /sbin/chkconfig, /usr/bin/systemctl start, /uu[36;1Hsr/bin/systemctl stop, /usr/bin/systemctl reload, /usr/bin/systemctl restart, /usr/bb[37;1Hin/systemctl status, /usr/bin/systemctl enable, /usr/bin/systemctl disable
+
+## Updating the locate database
+# Cmnd_Alias LOCATE = /usr/bin/updatedb
+
+## Storage
+# Cmnd_Alias STORAGE = /sbin/fdisk, /sbin/sfdisk, /sbin/parted, /sbin/partprobe, /bii[44;1Hn/mount, /bin/umount
+
+## Delegating permissions
+# Cmnd_Alias DELEGATING = /usr/sbin/visudo, /bin/chown, /bin/chmod, /bin/chgrp
+
+## Processes
+# Cmnd_Alias PROCESSES = /bin/nice, /bin/kill, /usr/bin/kill, /usr/bin/killall
+
+## Drivers
+# Cmnd_Alias DRIVERS = /sbin/modprobe
+
+# Defaults specification
+
+#[1;1H[?25h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[?25l[1;57r[57;1H
+[1;58r[57;1H# Refuse to run if unable to disable echo on the tty.[58;1H[K[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults   !visiblepw[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Preserving HOME has security implications since many programs[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# use it when searching for configuration files. Note that HOME[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# is already set when the the env_reset option is enabled, so[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# this option is only effective for configurations where either[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# env_reset is disabled or HOME is present in the env_keep list.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    always_set_home[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    match_group_by_gid[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Prior to version 1.8.15, groups listed in sudoers that were not[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# found in the system group database were passed to the group[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# plugin, if any. Starting with 1.8.15, only groups of the form[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# %:group are resolved via the group plugin by default.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# We enable always_query_group_plugin to restore old behavior.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Disable this option for new behavior.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    always_query_group_plugin[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    env_reset[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    env_keep =  "COLORS DISPLAY HOSTNAME HISTSIZE KDEDIR LS_COLORS"[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    env_keep += "MAIL PS1 PS2 QTDIR USERNAME LANG LC_ADDRESS LC_CTYPE"[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    env_keep += "LC_COLLATE LC_IDENTIFICATION LC_MEASUREMENT LC_MESSAGES"[?25h[?25l[1;57r[1;1H[3M[1;58r[55;1HDefaults    env_keep += "LC_MONETARY LC_NAME LC_NUMERIC LC_PAPER LC_TELEPHONE"
+Defaults    env_keep += "LC_TIME LC_ALL LANGUAGE LINGUAS _XKB_CHARSET XAUTHORITY"[55;1H[?25h
+
+[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Adding HOME to env_keep may enable a user to run unrestricted[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# commands via sudo.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Defaults   env_keep += "HOME"[?25h[?25l[1;57r[1;1H[3M[1;58r[56;1HDefaults    secure_path = /sbin:/bin:/usr/sbin:/usr/bin[55;1H[?25h
+
+[?25l[1;57r[57;1H
+[1;58r[57;1H## Next comes the main part: which users can run what software on[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## which machines (the sudoers file can be shared between multiple[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## systems).[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Syntax:[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H##[?25h[?25l[1;57r[1;1H[2M[1;58r[56;1H##      user    MACHINE=COMMANDS
+##[56;1H[?25h
+[?25l[1;57r[57;1H
+[1;58r[57;1H## The COMMANDS section may have other options added to it.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H##[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allow root to run any commands anywhere[?25h[?25l[1;57r[57;1H
+[1;58r[57;1Hroot    ALL=(ALL)[7CALL[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allows members of the 'sys' group to run networking, software,[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## service management apps and more.[?25h[?25l[1;57r[1;1H[2M[1;58r[56;1H# %sys ALL = NETWORKING, SOFTWARE, SERVICES, STORAGE, DELEGATING, PROCESSES, LOCATE,,[57;1H DRIVERS[56;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allows people in group wheel to run all commands[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H%wheel  ALL=(ALL)[7CALL[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Same thing without a password[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# %wheel[8CALL=(ALL)[7CNOPASSWD: ALL[?25h[?25l[1;57r[57;1H
+[1;58r[57;4HFiyin[8CALL=(ALL)[7CNOPASSWD: ALL[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allows members of the users group to mount and unmount the[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## cdrom as root[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# %users  ALL=/sbin/mount /mnt/cdrom, /sbin/umount /mnt/cdrom[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allows members of the users group to shutdown this system[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# %users  localhost=/sbin/shutdown -h now[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Read drop-in files from /etc/sudoers.d (the # here does not mean a comment)[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#includedir /etc/sudoers.d[?25h[56;1H[55;1H[54;1H[53;1H[52;1H[51;1H[50;1H[49;1H[48;1H[47;1H[46;1H[45;1H[44;1H[43;1H[42;1H[41;1H[39;1H[38;1H[37;1H[36;1H[35;1H[34;1H[33;1H[32;1H[31;1H[30;1H[29;1H[28;1H[27;1H[26;1H[25;1H[24;1H[23;1H[22;1H[21;1H[20;1H[19;1H[18;1H[17;1H[16;1H[15;1H[14;1H[13;1H[12;1H[11;1H[10;1H[9;1H[8;1H[7;1H[6;1H[5;1H[4;1H[3;1H[2;1H[1;1H[?25l[1;57r[1;1H[L[1;58r[1;1HDefaults    match_group_by_gid[?25h[?25l[1;57r[1;1H[L[1;58r[1;1HDefaults    always_set_home[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H#[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# env_reset is disabled or HOME is present in the env_keep list.[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# this option is only effective for configurations where either[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# is already set when the the env_reset option is enabled, so[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# use it when searching for configuration files. Note that HOME[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Preserving HOME has security implications since many programs[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H#[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1HDefaults   !visiblepw[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H#[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Refuse to run if unable to disable echo on the tty.[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H#[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Defaults specification[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Cmnd_Alias DRIVERS = /sbin/modprobe[57;1H[1m[34m@                                                                                   [1;1H[?25h[?25l[1;57r[m[1;1H[L[1;58r[1;1H## Drivers[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Cmnd_Alias PROCESSES = /bin/nice, /bin/kill, /usr/bin/kill, /usr/bin/killall[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Processes[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Cmnd_Alias DELEGATING = /usr/sbin/visudo, /bin/chown, /bin/chmod, /bin/chgrp[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Delegating permissions[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[2L[1;58r[1;1H# Cmnd_Alias STORAGE = /sbin/fdisk, /sbin/sfdisk, /sbin/parted, /sbin/partprobe, /bii[2;1Hn/mount, /bin/umount[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Storage[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Cmnd_Alias LOCATE = /usr/bin/updatedb[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Updating the locate database[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[3L[1;58r[1;1H# Cmnd_Alias SERVICES = /sbin/service, /sbin/chkconfig, /usr/bin/systemctl start, /uu[2;1Hsr/bin/systemctl stop, /usr/bin/systemctl reload, /usr/bin/systemctl restart, /usr/bb[3;1Hin/systemctl status, /usr/bin/systemctl enable, /usr/bin/systemctl disable[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Services[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Cmnd_Alias SOFTWARE = /bin/rpm, /usr/bin/up2date, /usr/bin/yum[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Installation and management of software[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[3L[1;58r[1;1H# Cmnd_Alias NETWORKING = /sbin/route, /sbin/ifconfig, /bin/ping, /sbin/dhclient, /uu[2;1Hsr/bin/net, /sbin/iptables, /usr/bin/rfcomm, /usr/bin/wvdial, /sbin/iwconfig, /sbin//[3;1Hmii-tool[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Networking[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## These are groups of related commands...[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Command Aliases[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# User_Alias ADMINS = jsmith, mikem[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## rather than USERALIAS[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## (ie, from files, LDAP, NIS, etc) in this file - just use %groupname[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## These aren't often necessary, as you can use regular groups[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## User Aliases[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Host_Alias     MAILSERVERS = smtp, smtp2[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H# Host_Alias     FILESERVERS = fs1, fs2[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## wildcards for entire domains) or IP addresses instead.[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Groups of machines. You may prefer to use hostnames (perhaps using[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Host Aliases[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## This file must be edited with the 'visudo' command.[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H##[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## users or groups.[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## of related commands, which can then be delegated out to particular[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Examples are provided at the bottom of the file for collections[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H##[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## the root user, without needing the root password.[?25h[?25l[1;57r[1;1H[L[1;58r[1;1H## Sudoers allows particular users to run various commands as[?25h
+
+
+[3;1H[2;1H[1;1H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[?25l[1;57r[57;1H
+[1;58r[57;1H# Refuse to run if unable to disable echo on the tty.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults   !visiblepw[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Preserving HOME has security implications since many programs[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# use it when searching for configuration files. Note that HOME[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# is already set when the the env_reset option is enabled, so[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# this option is only effective for configurations where either[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# env_reset is disabled or HOME is present in the env_keep list.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    always_set_home[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    match_group_by_gid[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Prior to version 1.8.15, groups listed in sudoers that were not[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# found in the system group database were passed to the group[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# plugin, if any. Starting with 1.8.15, only groups of the form[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# %:group are resolved via the group plugin by default.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# We enable always_query_group_plugin to restore old behavior.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Disable this option for new behavior.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    always_query_group_plugin[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    env_reset[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    env_keep =  "COLORS DISPLAY HOSTNAME HISTSIZE KDEDIR LS_COLORS"[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    env_keep += "MAIL PS1 PS2 QTDIR USERNAME LANG LC_ADDRESS LC_CTYPE"[?25h[?25l[1;57r[57;1H
+[1;58r[57;1HDefaults    env_keep += "LC_COLLATE LC_IDENTIFICATION LC_MEASUREMENT LC_MESSAGES"[?25h[?25l[1;57r[1;1H[3M[1;58r[55;1HDefaults    env_keep += "LC_MONETARY LC_NAME LC_NUMERIC LC_PAPER LC_TELEPHONE"
+Defaults    env_keep += "LC_TIME LC_ALL LANGUAGE LINGUAS _XKB_CHARSET XAUTHORITY"[55;1H[?25h
+
+[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Adding HOME to env_keep may enable a user to run unrestricted[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# commands via sudo.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# Defaults   env_keep += "HOME"[?25h[?25l[1;57r[1;1H[3M[1;58r[56;1HDefaults    secure_path = /sbin:/bin:/usr/sbin:/usr/bin[55;1H[?25h
+
+[?25l[1;57r[57;1H
+[1;58r[57;1H## Next comes the main part: which users can run what software on[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## which machines (the sudoers file can be shared between multiple[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## systems).[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Syntax:[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H##[?25h[?25l[1;57r[1;1H[2M[1;58r[56;1H##      user    MACHINE=COMMANDS
+##[56;1H[?25h
+[?25l[1;57r[57;1H
+[1;58r[57;1H## The COMMANDS section may have other options added to it.[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H##[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allow root to run any commands anywhere[?25h[?25l[1;57r[57;1H
+[1;58r[57;1Hroot    ALL=(ALL)[7CALL[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allows members of the 'sys' group to run networking, software,[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## service management apps and more.[?25h[?25l[1;57r[1;1H[2M[1;58r[56;1H# %sys ALL = NETWORKING, SOFTWARE, SERVICES, STORAGE, DELEGATING, PROCESSES, LOCATE,,[57;1H DRIVERS[56;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allows people in group wheel to run all commands[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H%wheel  ALL=(ALL)[7CALL[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Same thing without a password[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# %wheel[8CALL=(ALL)[7CNOPASSWD: ALL[?25h[?25l[1;57r[57;1H
+[1;58r[57;4HFiyin[8CALL=(ALL)[7CNOPASSWD: ALL[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allows members of the users group to mount and unmount the[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## cdrom as root[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# %users  ALL=/sbin/mount /mnt/cdrom, /sbin/umount /mnt/cdrom[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Allows members of the users group to shutdown this system[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H# %users  localhost=/sbin/shutdown -h now[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H## Read drop-in files from /etc/sudoers.d (the # here does not mean a comment)[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H#includedir /etc/sudoers.d[?25h[56;1H[55;1H[54;1H[53;1H[52;1H[51;1H[50;1H[49;1H[48;1H[47;1H[46;1H[45;1H
+
+
+
+
+
+
+
+
+
+
+
+[56;1H[55;1H[54;1H[53;1H[52;1H[51;1H[50;1H[49;1H[48;1H[47;1H[46;1H[45;1H[44;1H[43;1H[42;1H[41;1H[39;1H[38;1H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[?25l
+:[?25hq![?25l[?2004l[>4;m[58;1H[K[58;1H[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0tvisudo: /etc/sudoers.tmp unchanged
+]0;Fiyin@Fre
