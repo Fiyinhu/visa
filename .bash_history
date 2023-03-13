@@ -636,3 +636,48 @@ sudo yum install mail
 clear
 tree
 script
+ll
+git status
+git add .
+git commit -a -m "getting it"
+git status
+git branch
+git switch master
+git status
+git diff
+git diff fiyin
+git rebase master
+git rebase fiyin
+git log
+git branch
+git log
+git switch fiyin
+git log 
+git diff master
+git diff fiyin
+git branch
+ls 
+cd class9a
+ls 
+ll
+echo "Jesus Chirst is Lord" > MyW
+ls
+ll
+cat MyW
+cd 
+git status
+git add .
+git status
+git commit -m "Na so"
+git status
+git branch 
+git diff master
+git log 
+git switch master
+git branch
+git log 
+git diff fiyin
+git rebase fiyin
+git branch 
+git log
+clear
