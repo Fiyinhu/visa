@@ -681,3 +681,65 @@ git rebase fiyin
 git branch 
 git log
 clear
+git status
+git branch 
+git diff fiyin
+git diff master
+git rebase fiyin
+git branch
+git status
+git commit -a -m "b/hf"
+git status
+git diff log 
+git log
+git branch fiyin
+git log 
+git branch master
+git log
+clear
+git rebase master
+git rebase fiyin
+git branch 
+git remote list
+git remote -v
+git push origin master
+git config --global --list 
+clear
+git config --global --list 
+git remote -v 
+git push origin master
+git branch 
+git diff fiyin
+git rebase fiyin
+git diff master
+git merge fiyin
+git merge master
+git pull 
+clear
+git remote -v 
+git log
+git status
+clear
+git config --global --list
+git clean config --global --list
+git branch
+clear
+git remote -v
+git fetch 
+git fetch origin master
+git rebase master 
+git pull origin master
+git diff master
+clear
+git branch 
+git status
+git rm deploy
+git status
+git commit -a -m "ready"
+git diff master
+git diff fiyin
+clear
+git status
+git rebase fiyin
+git branch 
+git status
